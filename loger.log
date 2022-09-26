@@ -1,0 +1,1711 @@
+root:[INFO]:[2022-09-26 20:02:54,515] - Bot successfully start
+root:[INFO]:[2022-09-26 20:03:01,385] - Create game object with id: 36401242
+root:[INFO]:[2022-09-26 20:03:01,386] - Call func GameBot::get_data, id: 36401242
+root:[INFO]:[2022-09-26 20:03:01,521] - GameBot::get_data successfully get data from API, id: 36401242
+root:[INFO]:[2022-09-26 20:03:01,521] - Check event: id 36401242
+root:[INFO]:[2022-09-26 20:03:01,521] - Event 36401242 is a game
+root:[INFO]:[2022-09-26 20:03:01,521] - Call GameBot::get_info_event for id: 36401242
+root:[INFO]:[2022-09-26 20:03:01,521] - GameBot::get_info_event Successfully get info for id 36401242: team1_name: Сербия (ж), team2_name: Болгария (ж)
+root:[INFO]:[2022-09-26 20:03:01,521] - GameBot::get_info_event Check set: id 36401242, param name in json 4-й сет
+root:[INFO]:[2022-09-26 20:03:01,521] - GameBot::get_info_event Set is 4
+root:[INFO]:[2022-09-26 20:03:01,521] - GameBot::get_info_event the event is not suitable for tracking, delete event 36401242
+root:[INFO]:[2022-09-26 20:03:01,521] - delete game 36401242
+root:[INFO]:[2022-09-26 20:03:01,521] - GameBot::get_info_event Check set: id 36401242, param name in json 5-й сет
+root:[INFO]:[2022-09-26 20:03:01,521] - GameBot::get_info_event Set is 5
+root:[INFO]:[2022-09-26 20:03:01,521] - GameBot::get_info_event the event is not suitable for tracking, delete event 36401242
+root:[INFO]:[2022-09-26 20:03:01,521] - delete game 36401242
+root:[INFO]:[2022-09-26 20:03:01,521] - event data received successfully: event:Волейбол. Жен. Чемпионат Мира. Польша-Нидерланды. Групповой этап, team_1:Сербия (ж), team_2:Болгария (ж)
+root:[INFO]:[2022-09-26 20:03:01,521] - Create game object with id: 36396431
+root:[INFO]:[2022-09-26 20:03:01,521] - Call func GameBot::get_data, id: 36396431
+root:[INFO]:[2022-09-26 20:03:01,665] - GameBot::get_data successfully get data from API, id: 36396431
+root:[INFO]:[2022-09-26 20:03:01,665] - Check event: id 36396431
+root:[INFO]:[2022-09-26 20:03:01,665] - Event 36396431 is a game
+root:[INFO]:[2022-09-26 20:03:01,665] - Call GameBot::get_info_event for id: 36396431
+root:[INFO]:[2022-09-26 20:03:01,665] - GameBot::get_info_event Successfully get info for id 36396431: team1_name: Италия (ж), team2_name: Пуэрто-Рико (ж)
+root:[INFO]:[2022-09-26 20:03:01,665] - GameBot::get_info_event Check set: id 36396431, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:03:01,665] - GameBot::get_info_event Set is 1
+root:[INFO]:[2022-09-26 20:03:01,665] - GameBot::is_nedeed_tracking check id 36396431
+root:[INFO]:[2022-09-26 20:03:01,665] - GameBot::get_info_event game not tracking, delete game 36396431
+root:[INFO]:[2022-09-26 20:03:01,665] - delete game 36396431
+root:[INFO]:[2022-09-26 20:03:01,665] - GameBot::get_info_event Check set: id 36396431, param name in json 2-й сет
+root:[INFO]:[2022-09-26 20:03:01,666] - GameBot::get_info_event Set is 2
+root:[INFO]:[2022-09-26 20:03:01,666] - GameBot::get_info_event the event is not suitable for tracking, delete event 36396431
+root:[INFO]:[2022-09-26 20:03:01,666] - delete game 36396431
+root:[INFO]:[2022-09-26 20:03:01,666] - event data received successfully: event:Волейбол. Жен. Чемпионат Мира. Польша-Нидерланды. Групповой этап, team_1:Италия (ж), team_2:Пуэрто-Рико (ж)
+root:[INFO]:[2022-09-26 20:03:01,666] - Create game object with id: 36401241
+root:[INFO]:[2022-09-26 20:03:01,666] - Call func GameBot::get_data, id: 36401241
+root:[INFO]:[2022-09-26 20:03:01,849] - GameBot::get_data successfully get data from API, id: 36401241
+root:[INFO]:[2022-09-26 20:03:01,849] - Check event: id 36401241
+root:[INFO]:[2022-09-26 20:03:01,849] - Event 36401241 is a game
+root:[INFO]:[2022-09-26 20:03:01,850] - Call GameBot::get_info_event for id: 36401241
+root:[INFO]:[2022-09-26 20:03:01,850] - GameBot::get_info_event Successfully get info for id 36401241: team1_name: Бразилия (ж), team2_name: Аргентина (ж)
+root:[INFO]:[2022-09-26 20:03:01,850] - GameBot::get_info_event Check set: id 36401241, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:03:01,850] - GameBot::get_info_event Set is 1
+root:[INFO]:[2022-09-26 20:03:01,850] - GameBot::is_nedeed_tracking check id 36401241
+root:[INFO]:[2022-09-26 20:03:01,850] - GameBot::is_nedeed_tracking for event id 36401241 get coef for Бразилия (ж) - 1.02
+root:[INFO]:[2022-09-26 20:03:01,850] - GameBot::is_nedeed_tracking for event id 36401241 get coef for Аргентина (ж) - 14.0
+root:[INFO]:[2022-09-26 20:03:01,850] - GameBot::is_nedeed_tracking for event id 36401241 favorit is Бразилия (ж)
+root:[INFO]:[2022-09-26 20:03:01,850] - GameBot::get_info_event Set is 1, id 36401241, start tracking event
+root:[INFO]:[2022-09-26 20:03:01,850] - event data received successfully: event:Волейбол. Жен. Чемпионат Мира. Польша-Нидерланды. Групповой этап, team_1:Бразилия (ж), team_2:Аргентина (ж)
+root:[INFO]:[2022-09-26 20:03:01,850] - Create game object with id: 36401243
+root:[INFO]:[2022-09-26 20:03:01,850] - Call func GameBot::get_data, id: 36401243
+root:[INFO]:[2022-09-26 20:03:01,999] - GameBot::get_data successfully get data from API, id: 36401243
+root:[INFO]:[2022-09-26 20:03:01,999] - Check event: id 36401243
+root:[INFO]:[2022-09-26 20:03:01,999] - Event 36401243 is a game
+root:[INFO]:[2022-09-26 20:03:01,999] - Call GameBot::get_info_event for id: 36401243
+root:[INFO]:[2022-09-26 20:03:02,000] - GameBot::get_info_event Successfully get info for id 36401243: team1_name: США (ж), team2_name: Канада (ж)
+root:[INFO]:[2022-09-26 20:03:02,000] - GameBot::get_info_event Check set: id 36401243, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:03:02,000] - GameBot::get_info_event Set is 1
+root:[INFO]:[2022-09-26 20:03:02,000] - GameBot::is_nedeed_tracking check id 36401243
+root:[INFO]:[2022-09-26 20:03:02,000] - GameBot::is_nedeed_tracking for event id 36401243 get coef for США (ж) - 1.01
+root:[INFO]:[2022-09-26 20:03:02,000] - GameBot::is_nedeed_tracking for event id 36401243 get coef for Канада (ж) - 18.0
+root:[INFO]:[2022-09-26 20:03:02,000] - GameBot::is_nedeed_tracking for event id 36401243 favorit is США (ж)
+root:[INFO]:[2022-09-26 20:03:02,000] - GameBot::get_info_event Set is 1, id 36401243, start tracking event
+root:[INFO]:[2022-09-26 20:03:02,000] - event data received successfully: event:Волейбол. Жен. Чемпионат Мира. Польша-Нидерланды. Групповой этап, team_1:США (ж), team_2:Канада (ж)
+root:[INFO]:[2022-09-26 20:03:02,000] - Create game object with id: 36396410
+root:[INFO]:[2022-09-26 20:03:02,000] - Call func GameBot::get_data, id: 36396410
+root:[INFO]:[2022-09-26 20:03:02,172] - GameBot::get_data successfully get data from API, id: 36396410
+root:[INFO]:[2022-09-26 20:03:02,172] - Check event: id 36396410
+root:[INFO]:[2022-09-26 20:03:02,172] - Event 36396410 is a game
+root:[INFO]:[2022-09-26 20:03:02,172] - Call GameBot::get_info_event for id: 36396410
+root:[INFO]:[2022-09-26 20:03:02,172] - GameBot::get_info_event Successfully get info for id 36396410: team1_name: Турция (ж), team2_name: Юж. Корея (ж)
+root:[INFO]:[2022-09-26 20:03:02,172] - GameBot::get_info_event Check set: id 36396410, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:03:02,172] - GameBot::get_info_event Set is 1
+root:[INFO]:[2022-09-26 20:03:02,172] - GameBot::is_nedeed_tracking check id 36396410
+root:[INFO]:[2022-09-26 20:03:02,173] - GameBot::get_info_event game not tracking, delete game 36396410
+root:[INFO]:[2022-09-26 20:03:02,173] - delete game 36396410
+root:[INFO]:[2022-09-26 20:03:02,173] - event data received successfully: event:Волейбол. Жен. Чемпионат Мира. Польша-Нидерланды. Групповой этап, team_1:Турция (ж), team_2:Юж. Корея (ж)
+root:[INFO]:[2022-09-26 20:03:02,173] - Create game object with id: 36401244
+root:[INFO]:[2022-09-26 20:03:02,173] - Call func GameBot::get_data, id: 36401244
+root:[INFO]:[2022-09-26 20:03:02,323] - GameBot::get_data successfully get data from API, id: 36401244
+root:[INFO]:[2022-09-26 20:03:02,323] - Check event: id 36401244
+root:[INFO]:[2022-09-26 20:03:02,323] - Event 36401244 is a game
+root:[INFO]:[2022-09-26 20:03:02,324] - Call GameBot::get_info_event for id: 36401244
+root:[INFO]:[2022-09-26 20:03:02,324] - GameBot::get_info_event Successfully get info for id 36401244: team1_name: Китай (ж), team2_name: Колумбия (ж)
+root:[INFO]:[2022-09-26 20:03:02,324] - GameBot::get_info_event Check set: id 36401244, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:03:02,324] - GameBot::get_info_event Set is 1
+root:[INFO]:[2022-09-26 20:03:02,324] - GameBot::is_nedeed_tracking check id 36401244
+root:[INFO]:[2022-09-26 20:03:02,324] - GameBot::get_info_event game not tracking, delete game 36401244
+root:[INFO]:[2022-09-26 20:03:02,324] - delete game 36401244
+root:[INFO]:[2022-09-26 20:03:02,324] - event data received successfully: event:Волейбол. Жен. Чемпионат Мира. Польша-Нидерланды. Групповой этап, team_1:Китай (ж), team_2:Колумбия (ж)
+root:[INFO]:[2022-09-26 20:03:02,324] - Create game object with id: 36396380
+root:[INFO]:[2022-09-26 20:03:02,324] - Call func GameBot::get_data, id: 36396380
+root:[INFO]:[2022-09-26 20:03:02,468] - GameBot::get_data successfully get data from API, id: 36396380
+root:[INFO]:[2022-09-26 20:03:02,468] - Check event: id 36396380
+root:[INFO]:[2022-09-26 20:03:02,468] - Event 36396380 is a game
+root:[INFO]:[2022-09-26 20:03:02,469] - Call GameBot::get_info_event for id: 36396380
+root:[INFO]:[2022-09-26 20:03:02,469] - GameBot::get_info_event Successfully get info for id 36396380: team1_name: Доминиканская Республика (ж), team2_name: Хорватия (ж)
+root:[INFO]:[2022-09-26 20:03:02,469] - GameBot::get_info_event Check set: id 36396380, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:03:02,469] - GameBot::get_info_event Set is 1
+root:[INFO]:[2022-09-26 20:03:02,469] - GameBot::is_nedeed_tracking check id 36396380
+root:[INFO]:[2022-09-26 20:03:02,469] - GameBot::is_nedeed_tracking for event id 36396380 get coef for Доминиканская Республика (ж) - 1.27
+root:[INFO]:[2022-09-26 20:03:02,469] - GameBot::is_nedeed_tracking for event id 36396380 get coef for Хорватия (ж) - 3.8
+root:[INFO]:[2022-09-26 20:03:02,469] - GameBot::is_nedeed_tracking for event id 36396380 favorit is Доминиканская Республика (ж)
+root:[INFO]:[2022-09-26 20:03:02,469] - GameBot::get_info_event Set is 1, id 36396380, start tracking event
+root:[INFO]:[2022-09-26 20:03:02,469] - event data received successfully: event:Волейбол. Жен. Чемпионат Мира. Польша-Нидерланды. Групповой этап, team_1:Доминиканская Республика (ж), team_2:Хорватия (ж)
+root:[INFO]:[2022-09-26 20:03:02,469] - Create game object with id: 36401246
+root:[INFO]:[2022-09-26 20:03:02,469] - Call func GameBot::get_data, id: 36401246
+root:[INFO]:[2022-09-26 20:03:02,616] - GameBot::get_data successfully get data from API, id: 36401246
+root:[INFO]:[2022-09-26 20:03:02,616] - Check event: id 36401246
+root:[INFO]:[2022-09-26 20:03:02,616] - Event 36401246 is a game
+root:[INFO]:[2022-09-26 20:03:02,616] - Call GameBot::get_info_event for id: 36401246
+root:[INFO]:[2022-09-26 20:03:02,616] - GameBot::get_info_event Successfully get info for id 36401246: team1_name: Камерун (ж), team2_name: Кения (ж)
+root:[INFO]:[2022-09-26 20:03:02,616] - GameBot::get_info_event Check set: id 36401246, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:03:02,616] - GameBot::get_info_event Set is 1
+root:[INFO]:[2022-09-26 20:03:02,616] - GameBot::is_nedeed_tracking check id 36401246
+root:[INFO]:[2022-09-26 20:03:02,617] - GameBot::is_nedeed_tracking for event id 36401246 get coef for Камерун (ж) - 1.9
+root:[INFO]:[2022-09-26 20:03:02,617] - GameBot::is_nedeed_tracking for event id 36401246 get coef for Кения (ж) - 1.9
+root:[INFO]:[2022-09-26 20:03:02,617] - GameBot::is_nedeed_tracking for event id 36401246 favorit is Камерун (ж)
+root:[INFO]:[2022-09-26 20:03:02,617] - GameBot::get_info_event game not tracking, delete game 36401246
+root:[INFO]:[2022-09-26 20:03:02,617] - delete game 36401246
+root:[INFO]:[2022-09-26 20:03:02,617] - event data received successfully: event:Волейбол. Жен. Чемпионат Мира. Польша-Нидерланды. Групповой этап, team_1:Камерун (ж), team_2:Кения (ж)
+root:[INFO]:[2022-09-26 20:03:02,617] - Create game object with id: 36401247
+root:[INFO]:[2022-09-26 20:03:02,617] - Call func GameBot::get_data, id: 36401247
+root:[INFO]:[2022-09-26 20:03:02,762] - GameBot::get_data successfully get data from API, id: 36401247
+root:[INFO]:[2022-09-26 20:03:02,762] - Check event: id 36401247
+root:[INFO]:[2022-09-26 20:03:02,762] - Event 36401247 is a game
+root:[INFO]:[2022-09-26 20:03:02,762] - Call GameBot::get_info_event for id: 36401247
+root:[INFO]:[2022-09-26 20:03:02,762] - GameBot::get_info_event Successfully get info for id 36401247: team1_name: Польша (ж), team2_name: Таиланд (ж)
+root:[INFO]:[2022-09-26 20:03:02,762] - GameBot::get_info_event Check set: id 36401247, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:03:02,762] - GameBot::get_info_event Set is 1
+root:[INFO]:[2022-09-26 20:03:02,762] - GameBot::is_nedeed_tracking check id 36401247
+root:[INFO]:[2022-09-26 20:03:02,762] - GameBot::is_nedeed_tracking for event id 36401247 get coef for Польша (ж) - 1.58
+root:[INFO]:[2022-09-26 20:03:02,762] - GameBot::is_nedeed_tracking for event id 36401247 get coef for Таиланд (ж) - 2.38
+root:[INFO]:[2022-09-26 20:03:02,762] - GameBot::is_nedeed_tracking for event id 36401247 favorit is Польша (ж)
+root:[INFO]:[2022-09-26 20:03:02,762] - GameBot::get_info_event Set is 1, id 36401247, start tracking event
+root:[INFO]:[2022-09-26 20:03:02,762] - event data received successfully: event:Волейбол. Жен. Чемпионат Мира. Польша-Нидерланды. Групповой этап, team_1:Польша (ж), team_2:Таиланд (ж)
+root:[INFO]:[2022-09-26 20:03:02,762] - Create game object with id: 36407486
+root:[INFO]:[2022-09-26 20:03:02,762] - Call func GameBot::get_data, id: 36407486
+root:[INFO]:[2022-09-26 20:03:02,910] - GameBot::get_data successfully get data from API, id: 36407486
+root:[INFO]:[2022-09-26 20:03:02,910] - Check event: id 36407486
+root:[INFO]:[2022-09-26 20:03:02,910] - Event 36407486 is a game
+root:[INFO]:[2022-09-26 20:03:02,910] - Call GameBot::get_info_event for id: 36407486
+root:[INFO]:[2022-09-26 20:03:02,910] - GameBot::get_info_event Successfully get info for id 36407486: team1_name: Совы-про (ж), team2_name: Пантеры-про (ж)
+root:[INFO]:[2022-09-26 20:03:02,910] - GameBot::get_info_event Check set: id 36407486, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:03:02,911] - GameBot::get_info_event Set is 1
+root:[INFO]:[2022-09-26 20:03:02,911] - GameBot::is_nedeed_tracking check id 36407486
+root:[INFO]:[2022-09-26 20:03:02,911] - GameBot::is_nedeed_tracking for event id 36407486 get coef for Совы-про (ж) - 1.73
+root:[INFO]:[2022-09-26 20:03:02,911] - GameBot::is_nedeed_tracking for event id 36407486 get coef for Пантеры-про (ж) - 2.0
+root:[INFO]:[2022-09-26 20:03:02,911] - GameBot::is_nedeed_tracking for event id 36407486 favorit is Совы-про (ж)
+root:[INFO]:[2022-09-26 20:03:02,911] - GameBot::get_info_event game not tracking, delete game 36407486
+root:[INFO]:[2022-09-26 20:03:02,911] - delete game 36407486
+root:[INFO]:[2022-09-26 20:03:02,911] - event data received successfully: event:Волейбол. Жен. Россия. Региональные соревнования Лига Про. Тверь, team_1:Совы-про (ж), team_2:Пантеры-про (ж)
+root:[INFO]:[2022-09-26 20:03:02,911] - Create game object with id: 36407484
+root:[INFO]:[2022-09-26 20:03:02,911] - Call func GameBot::get_data, id: 36407484
+root:[INFO]:[2022-09-26 20:03:03,066] - GameBot::get_data successfully get data from API, id: 36407484
+root:[INFO]:[2022-09-26 20:03:03,066] - Check event: id 36407484
+root:[INFO]:[2022-09-26 20:03:03,066] - Event 36407484 is a game
+root:[INFO]:[2022-09-26 20:03:03,066] - Call GameBot::get_info_event for id: 36407484
+root:[INFO]:[2022-09-26 20:03:03,066] - GameBot::get_info_event Successfully get info for id 36407484: team1_name: Совы-про (ж), team2_name: Фокси-про (ж)
+root:[INFO]:[2022-09-26 20:03:03,066] - GameBot::get_info_event Check set: id 36407484, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:03:03,066] - GameBot::get_info_event Set is 1
+root:[INFO]:[2022-09-26 20:03:03,066] - GameBot::is_nedeed_tracking check id 36407484
+root:[INFO]:[2022-09-26 20:03:03,066] - GameBot::is_nedeed_tracking for event id 36407484 get coef for Совы-про (ж) - 1.62
+root:[INFO]:[2022-09-26 20:03:03,066] - GameBot::is_nedeed_tracking for event id 36407484 get coef for Фокси-про (ж) - 2.15
+root:[INFO]:[2022-09-26 20:03:03,066] - GameBot::is_nedeed_tracking for event id 36407484 favorit is Совы-про (ж)
+root:[INFO]:[2022-09-26 20:03:03,066] - GameBot::get_info_event Set is 1, id 36407484, start tracking event
+root:[INFO]:[2022-09-26 20:03:03,066] - event data received successfully: event:Волейбол. Жен. Россия. Региональные соревнования Лига Про. Тверь, team_1:Совы-про (ж), team_2:Фокси-про (ж)
+root:[INFO]:[2022-09-26 20:03:03,066] - Create game object with id: 36412159
+root:[INFO]:[2022-09-26 20:03:03,066] - Call func GameBot::get_data, id: 36412159
+root:[INFO]:[2022-09-26 20:03:03,210] - GameBot::get_data successfully get data from API, id: 36412159
+root:[INFO]:[2022-09-26 20:03:03,210] - Check event: id 36412159
+root:[INFO]:[2022-09-26 20:03:03,210] - Event 36412159 is a game
+root:[INFO]:[2022-09-26 20:03:03,210] - Call GameBot::get_info_event for id: 36412159
+root:[INFO]:[2022-09-26 20:03:03,210] - GameBot::get_info_event Successfully get info for id 36412159: team1_name: СКМУ Крайова, team2_name: Галац
+root:[INFO]:[2022-09-26 20:03:03,210] - GameBot::get_info_event Check set: id 36412159, param name in json 2-й сет
+root:[INFO]:[2022-09-26 20:03:03,210] - GameBot::get_info_event Set is 2
+root:[INFO]:[2022-09-26 20:03:03,210] - GameBot::get_info_event the event is not suitable for tracking, delete event 36412159
+root:[INFO]:[2022-09-26 20:03:03,210] - delete game 36412159
+root:[INFO]:[2022-09-26 20:03:03,211] - GameBot::get_info_event Check set: id 36412159, param name in json 3-й сет
+root:[INFO]:[2022-09-26 20:03:03,211] - GameBot::get_info_event Set is 3
+root:[INFO]:[2022-09-26 20:03:03,211] - GameBot::get_info_event the event is not suitable for tracking, delete event 36412159
+root:[INFO]:[2022-09-26 20:03:03,211] - delete game 36412159
+root:[INFO]:[2022-09-26 20:03:03,211] - event data received successfully: event:Волейбол. Румыния. Суперкубок, team_1:СКМУ Крайова, team_2:Галац
+root:[INFO]:[2022-09-26 20:03:03,211] - Create game object with id: 36412168
+root:[INFO]:[2022-09-26 20:03:03,211] - Call func GameBot::get_data, id: 36412168
+root:[INFO]:[2022-09-26 20:03:03,352] - GameBot::get_data successfully get data from API, id: 36412168
+root:[INFO]:[2022-09-26 20:03:03,352] - Check event: id 36412168
+root:[INFO]:[2022-09-26 20:03:03,352] - Event 36412168 is a game
+root:[INFO]:[2022-09-26 20:03:03,352] - Call GameBot::get_info_event for id: 36412168
+root:[INFO]:[2022-09-26 20:03:03,353] - GameBot::get_info_event Successfully get info for id 36412168: team1_name: Инкарнейт Уорд (ж), team2_name: Нортвестерн Стэйт (ж)
+root:[INFO]:[2022-09-26 20:03:03,353] - GameBot::get_info_event Check set: id 36412168, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:03:03,353] - GameBot::get_info_event Set is 1
+root:[INFO]:[2022-09-26 20:03:03,353] - GameBot::is_nedeed_tracking check id 36412168
+root:[INFO]:[2022-09-26 20:03:03,353] - GameBot::is_nedeed_tracking for event id 36412168 get coef for Инкарнейт Уорд (ж) - 2.3
+root:[INFO]:[2022-09-26 20:03:03,353] - GameBot::is_nedeed_tracking for event id 36412168 get coef for Нортвестерн Стэйт (ж) - 1.55
+root:[INFO]:[2022-09-26 20:03:03,353] - GameBot::is_nedeed_tracking for event id 36412168 favorit is Нортвестерн Стэйт (ж)
+root:[INFO]:[2022-09-26 20:03:03,353] - GameBot::get_info_event Set is 1, id 36412168, start tracking event
+root:[INFO]:[2022-09-26 20:03:03,353] - event data received successfully: event:Волейбол. Жен. США. NCAA, team_1:Инкарнейт Уорд (ж), team_2:Нортвестерн Стэйт (ж)
+root:[INFO]:[2022-09-26 20:03:03,353] - Create game object with id: 36412169
+root:[INFO]:[2022-09-26 20:03:03,353] - Call func GameBot::get_data, id: 36412169
+root:[INFO]:[2022-09-26 20:03:03,529] - GameBot::get_data successfully get data from API, id: 36412169
+root:[INFO]:[2022-09-26 20:03:03,530] - Check event: id 36412169
+root:[INFO]:[2022-09-26 20:03:03,530] - Event 36412169 is a game
+root:[INFO]:[2022-09-26 20:03:03,530] - Call GameBot::get_info_event for id: 36412169
+root:[INFO]:[2022-09-26 20:03:03,530] - GameBot::get_info_event Successfully get info for id 36412169: team1_name: Иллинойс Чикаго (ж), team2_name: Вальпараисо (ж)
+root:[INFO]:[2022-09-26 20:03:03,530] - GameBot::get_info_event Check set: id 36412169, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:03:03,530] - GameBot::get_info_event Set is 1
+root:[INFO]:[2022-09-26 20:03:03,530] - GameBot::is_nedeed_tracking check id 36412169
+root:[INFO]:[2022-09-26 20:03:03,530] - GameBot::is_nedeed_tracking for event id 36412169 get coef for Иллинойс Чикаго (ж) - 2.13
+root:[INFO]:[2022-09-26 20:03:03,530] - GameBot::is_nedeed_tracking for event id 36412169 get coef for Вальпараисо (ж) - 1.63
+root:[INFO]:[2022-09-26 20:03:03,531] - GameBot::is_nedeed_tracking for event id 36412169 favorit is Вальпараисо (ж)
+root:[INFO]:[2022-09-26 20:03:03,531] - GameBot::get_info_event Set is 1, id 36412169, start tracking event
+root:[INFO]:[2022-09-26 20:03:03,531] - event data received successfully: event:Волейбол. Жен. США. NCAA, team_1:Иллинойс Чикаго (ж), team_2:Вальпараисо (ж)
+root:[INFO]:[2022-09-26 20:03:03,531] - Create game object with id: 36412175
+root:[INFO]:[2022-09-26 20:03:03,531] - Call func GameBot::get_data, id: 36412175
+root:[INFO]:[2022-09-26 20:03:03,670] - GameBot::get_data successfully get data from API, id: 36412175
+root:[INFO]:[2022-09-26 20:03:03,670] - Check event: id 36412175
+root:[INFO]:[2022-09-26 20:03:03,671] - Event 36412175 is a game
+root:[INFO]:[2022-09-26 20:03:03,671] - Call GameBot::get_info_event for id: 36412175
+root:[INFO]:[2022-09-26 20:03:03,671] - GameBot::get_info_event Successfully get info for id 36412175: team1_name: Поинт Лома Назарен (ж), team2_name: Гавайи Пасифик (ж)
+root:[INFO]:[2022-09-26 20:03:03,671] - GameBot::get_info_event Check set: id 36412175, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:03:03,671] - GameBot::get_info_event Set is 1
+root:[INFO]:[2022-09-26 20:03:03,671] - GameBot::is_nedeed_tracking check id 36412175
+root:[INFO]:[2022-09-26 20:03:03,671] - GameBot::is_nedeed_tracking for event id 36412175 get coef for Поинт Лома Назарен (ж) - 1.04
+root:[INFO]:[2022-09-26 20:03:03,671] - GameBot::is_nedeed_tracking for event id 36412175 get coef for Гавайи Пасифик (ж) - 8.5
+root:[INFO]:[2022-09-26 20:03:03,671] - GameBot::is_nedeed_tracking for event id 36412175 favorit is Поинт Лома Назарен (ж)
+root:[INFO]:[2022-09-26 20:03:03,672] - GameBot::get_info_event Set is 1, id 36412175, start tracking event
+root:[INFO]:[2022-09-26 20:03:03,672] - event data received successfully: event:Волейбол. Жен. США. NCAA, team_1:Поинт Лома Назарен (ж), team_2:Гавайи Пасифик (ж)
+root:[INFO]:[2022-09-26 20:03:03,673] - Create game object with id: 36412178
+root:[INFO]:[2022-09-26 20:03:03,673] - Call func GameBot::get_data, id: 36412178
+root:[INFO]:[2022-09-26 20:03:03,817] - GameBot::get_data successfully get data from API, id: 36412178
+root:[INFO]:[2022-09-26 20:03:03,817] - Check event: id 36412178
+root:[INFO]:[2022-09-26 20:03:03,817] - Event 36412178 is a game
+root:[INFO]:[2022-09-26 20:03:03,817] - Call GameBot::get_info_event for id: 36412178
+root:[INFO]:[2022-09-26 20:03:03,817] - GameBot::get_info_event Successfully get info for id 36412178: team1_name: Дефенсорес де Банфилд, team2_name: Велес Сарсфилд
+root:[INFO]:[2022-09-26 20:03:03,817] - GameBot::get_info_event Check set: id 36412178, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:03:03,818] - GameBot::get_info_event Set is 1
+root:[INFO]:[2022-09-26 20:03:03,818] - GameBot::is_nedeed_tracking check id 36412178
+root:[INFO]:[2022-09-26 20:03:03,818] - GameBot::is_nedeed_tracking for event id 36412178 get coef for Дефенсорес де Банфилд - 1.22
+root:[INFO]:[2022-09-26 20:03:03,818] - GameBot::is_nedeed_tracking for event id 36412178 get coef for Велес Сарсфилд - 3.8
+root:[INFO]:[2022-09-26 20:03:03,818] - GameBot::is_nedeed_tracking for event id 36412178 favorit is Дефенсорес де Банфилд
+root:[INFO]:[2022-09-26 20:03:03,818] - GameBot::get_info_event Set is 1, id 36412178, start tracking event
+root:[INFO]:[2022-09-26 20:03:03,818] - event data received successfully: event:Волейбол. Аргентина. Copa Metropolitana, team_1:Дефенсорес де Банфилд, team_2:Велес Сарсфилд
+root:[INFO]:[2022-09-26 20:03:03,818] - Create game object with id: 36412179
+root:[INFO]:[2022-09-26 20:03:03,818] - Call func GameBot::get_data, id: 36412179
+root:[INFO]:[2022-09-26 20:03:03,964] - GameBot::get_data successfully get data from API, id: 36412179
+root:[INFO]:[2022-09-26 20:03:03,965] - Check event: id 36412179
+root:[INFO]:[2022-09-26 20:03:03,965] - Event 36412179 is a game
+root:[INFO]:[2022-09-26 20:03:03,965] - Call GameBot::get_info_event for id: 36412179
+root:[INFO]:[2022-09-26 20:03:03,965] - GameBot::get_info_event Successfully get info for id 36412179: team1_name: Ломас, team2_name: Ферро Каррил Оесте
+root:[INFO]:[2022-09-26 20:03:03,965] - GameBot::get_info_event Check set: id 36412179, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:03:03,965] - GameBot::get_info_event Set is 1
+root:[INFO]:[2022-09-26 20:03:03,965] - GameBot::is_nedeed_tracking check id 36412179
+root:[INFO]:[2022-09-26 20:03:03,965] - GameBot::is_nedeed_tracking for event id 36412179 get coef for Ломас - 3.7
+root:[INFO]:[2022-09-26 20:03:03,965] - GameBot::is_nedeed_tracking for event id 36412179 get coef for Ферро Каррил Оесте - 1.23
+root:[INFO]:[2022-09-26 20:03:03,965] - GameBot::is_nedeed_tracking for event id 36412179 favorit is Ферро Каррил Оесте
+root:[INFO]:[2022-09-26 20:03:03,965] - GameBot::get_info_event Set is 1, id 36412179, start tracking event
+root:[INFO]:[2022-09-26 20:03:03,965] - event data received successfully: event:Волейбол. Аргентина. Copa Metropolitana, team_1:Ломас, team_2:Ферро Каррил Оесте
+root:[INFO]:[2022-09-26 20:03:03,965] - Create game object with id: 36412186
+root:[INFO]:[2022-09-26 20:03:03,966] - Call func GameBot::get_data, id: 36412186
+root:[INFO]:[2022-09-26 20:03:04,199] - GameBot::get_data successfully get data from API, id: 36412186
+root:[INFO]:[2022-09-26 20:03:04,199] - Check event: id 36412186
+root:[INFO]:[2022-09-26 20:03:04,199] - Event 36412186 is a game
+root:[INFO]:[2022-09-26 20:03:04,199] - Call GameBot::get_info_event for id: 36412186
+root:[INFO]:[2022-09-26 20:03:04,200] - GameBot::get_info_event Successfully get info for id 36412186: team1_name: Ривер Плейт, team2_name: Ла Матанса
+root:[INFO]:[2022-09-26 20:03:04,200] - GameBot::get_info_event Check set: id 36412186, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:03:04,200] - GameBot::get_info_event Set is 1
+root:[INFO]:[2022-09-26 20:03:04,200] - GameBot::is_nedeed_tracking check id 36412186
+root:[INFO]:[2022-09-26 20:03:04,200] - GameBot::is_nedeed_tracking for event id 36412186 get coef for Ривер Плейт - 1.19
+root:[INFO]:[2022-09-26 20:03:04,200] - GameBot::is_nedeed_tracking for event id 36412186 get coef for Ла Матанса - 4.2
+root:[INFO]:[2022-09-26 20:03:04,200] - GameBot::is_nedeed_tracking for event id 36412186 favorit is Ривер Плейт
+root:[INFO]:[2022-09-26 20:03:04,200] - GameBot::get_info_event Set is 1, id 36412186, start tracking event
+root:[INFO]:[2022-09-26 20:03:04,200] - event data received successfully: event:Волейбол. Аргентина. Copa Metropolitana, team_1:Ривер Плейт, team_2:Ла Матанса
+root:[INFO]:[2022-09-26 20:03:04,200] - Create game object with id: 36412173
+root:[INFO]:[2022-09-26 20:03:04,200] - Call func GameBot::get_data, id: 36412173
+root:[INFO]:[2022-09-26 20:03:04,542] - GameBot::get_data successfully get data from API, id: 36412173
+root:[INFO]:[2022-09-26 20:03:04,542] - Check event: id 36412173
+root:[INFO]:[2022-09-26 20:03:04,542] - Event 36412173 is a game
+root:[INFO]:[2022-09-26 20:03:04,542] - Call GameBot::get_info_event for id: 36412173
+root:[INFO]:[2022-09-26 20:03:04,542] - GameBot::get_info_event Successfully get info for id 36412173: team1_name: ГЕВП Волей, team2_name: Итальяно
+root:[INFO]:[2022-09-26 20:03:04,542] - event data received successfully: event:Волейбол. Аргентина. 1-й дивизион, team_1:ГЕВП Волей, team_2:Итальяно
+root:[INFO]:[2022-09-26 20:03:04,542] - Create game object with id: 36412171
+root:[INFO]:[2022-09-26 20:03:04,542] - Call func GameBot::get_data, id: 36412171
+root:[INFO]:[2022-09-26 20:03:04,697] - GameBot::get_data successfully get data from API, id: 36412171
+root:[INFO]:[2022-09-26 20:03:04,697] - Check event: id 36412171
+root:[INFO]:[2022-09-26 20:03:04,697] - Event 36412171 is a game
+root:[INFO]:[2022-09-26 20:03:04,697] - Call GameBot::get_info_event for id: 36412171
+root:[INFO]:[2022-09-26 20:03:04,698] - GameBot::get_info_event Successfully get info for id 36412171: team1_name: Химнас. и Эсгр. де Итусайнго, team2_name: Харродс
+root:[INFO]:[2022-09-26 20:03:04,698] - event data received successfully: event:Волейбол. Аргентина. 2-й дивизион, team_1:Химнас. и Эсгр. де Итусайнго, team_2:Харродс
+root:[INFO]:[2022-09-26 20:03:04,698] - Create game object with id: 36415140
+root:[INFO]:[2022-09-26 20:03:04,698] - Call func GameBot::get_data, id: 36415140
+root:[INFO]:[2022-09-26 20:03:04,998] - GameBot::get_data successfully get data from API, id: 36415140
+root:[INFO]:[2022-09-26 20:03:04,998] - Check event: id 36415140
+root:[INFO]:[2022-09-26 20:03:04,998] - Event 36415140 is a game
+root:[INFO]:[2022-09-26 20:03:04,998] - Call GameBot::get_info_event for id: 36415140
+root:[INFO]:[2022-09-26 20:03:04,998] - GameBot::get_info_event Successfully get info for id 36415140: team1_name: Депор. Пресиденте Дерки, team2_name: Атлетико Льявальоль
+root:[INFO]:[2022-09-26 20:03:04,999] - event data received successfully: event:Волейбол. Аргентина. 2-й дивизион, team_1:Депор. Пресиденте Дерки, team_2:Атлетико Льявальоль
+root:[INFO]:[2022-09-26 20:03:04,999] - Create game object with id: 36412187
+root:[INFO]:[2022-09-26 20:03:04,999] - Call func GameBot::get_data, id: 36412187
+root:[INFO]:[2022-09-26 20:03:05,178] - GameBot::get_data successfully get data from API, id: 36412187
+root:[INFO]:[2022-09-26 20:03:05,178] - Check event: id 36412187
+root:[INFO]:[2022-09-26 20:03:05,178] - Event 36412187 is a game
+root:[INFO]:[2022-09-26 20:03:05,178] - Call GameBot::get_info_event for id: 36412187
+root:[INFO]:[2022-09-26 20:03:05,178] - GameBot::get_info_event Successfully get info for id 36412187: team1_name: Аргентино де Кастелар (ж), team2_name: Сьюдад (ж)
+root:[INFO]:[2022-09-26 20:03:05,178] - GameBot::get_info_event Check set: id 36412187, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:03:05,178] - GameBot::get_info_event Set is 1
+root:[INFO]:[2022-09-26 20:03:05,178] - GameBot::is_nedeed_tracking check id 36412187
+root:[INFO]:[2022-09-26 20:03:05,178] - GameBot::is_nedeed_tracking for event id 36412187 get coef for Аргентино де Кастелар (ж) - 4.3
+root:[INFO]:[2022-09-26 20:03:05,178] - GameBot::is_nedeed_tracking for event id 36412187 get coef for Сьюдад (ж) - 1.18
+root:[INFO]:[2022-09-26 20:03:05,179] - GameBot::is_nedeed_tracking for event id 36412187 favorit is Сьюдад (ж)
+root:[INFO]:[2022-09-26 20:03:05,179] - GameBot::get_info_event Set is 1, id 36412187, start tracking event
+root:[INFO]:[2022-09-26 20:03:05,179] - event data received successfully: event:Волейбол. Жен. Аргентина. Division de Honor, team_1:Аргентино де Кастелар (ж), team_2:Сьюдад (ж)
+root:[INFO]:[2022-09-26 20:03:05,179] - Create game object with id: 36412172
+root:[INFO]:[2022-09-26 20:03:05,179] - Call func GameBot::get_data, id: 36412172
+root:[INFO]:[2022-09-26 20:03:05,423] - GameBot::get_data successfully get data from API, id: 36412172
+root:[INFO]:[2022-09-26 20:03:05,424] - Check event: id 36412172
+root:[INFO]:[2022-09-26 20:03:05,424] - Event 36412172 is a game
+root:[INFO]:[2022-09-26 20:03:05,424] - Call GameBot::get_info_event for id: 36412172
+root:[INFO]:[2022-09-26 20:03:05,424] - GameBot::get_info_event Successfully get info for id 36412172: team1_name: Волей Гуарульюс, team2_name: СЕСИ-СП
+root:[INFO]:[2022-09-26 20:03:05,424] - event data received successfully: event:Волейбол. Бразилия. Паулиста, team_1:Волей Гуарульюс, team_2:СЕСИ-СП
+root:[INFO]:[2022-09-26 20:03:05,424] - Create game object with id: 36412164
+root:[INFO]:[2022-09-26 20:03:05,424] - Call func GameBot::get_data, id: 36412164
+root:[INFO]:[2022-09-26 20:03:05,718] - GameBot::get_data successfully get data from API, id: 36412164
+root:[INFO]:[2022-09-26 20:03:05,718] - Check event: id 36412164
+root:[INFO]:[2022-09-26 20:03:05,718] - Event 36412164 is a game
+root:[INFO]:[2022-09-26 20:03:05,718] - Call GameBot::get_info_event for id: 36412164
+root:[INFO]:[2022-09-26 20:03:05,718] - GameBot::get_info_event Successfully get info for id 36412164: team1_name: Динамо-Олимп-мл, team2_name: Беларусь-мл
+root:[INFO]:[2022-09-26 20:03:05,718] - GameBot::get_info_event Check set: id 36412164, param name in json 2-й сет
+root:[INFO]:[2022-09-26 20:03:05,718] - GameBot::get_info_event Set is 2
+root:[INFO]:[2022-09-26 20:03:05,718] - GameBot::get_info_event the event is not suitable for tracking, delete event 36412164
+root:[INFO]:[2022-09-26 20:03:05,718] - delete game 36412164
+root:[INFO]:[2022-09-26 20:03:05,719] - event data received successfully: event:Волейбол. Россия. Молодежная лига, team_1:Динамо-Олимп-мл, team_2:Беларусь-мл
+root:[INFO]:[2022-09-26 20:03:05,719] - Create game object with id: 36415420
+root:[INFO]:[2022-09-26 20:03:05,719] - Call func GameBot::get_data, id: 36415420
+root:[INFO]:[2022-09-26 20:03:05,954] - GameBot::get_data successfully get data from API, id: 36415420
+root:[INFO]:[2022-09-26 20:03:05,954] - Check event: id 36415420
+root:[INFO]:[2022-09-26 20:03:05,954] - Event 36415420 is a game
+root:[INFO]:[2022-09-26 20:03:05,954] - Call GameBot::get_info_event for id: 36415420
+root:[INFO]:[2022-09-26 20:03:05,954] - GameBot::get_info_event Successfully get info for id 36415420: team1_name: ВНС, team2_name: СТА Елена
+root:[INFO]:[2022-09-26 20:03:05,954] - GameBot::get_info_event Check set: id 36415420, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:03:05,954] - GameBot::get_info_event Set is 1
+root:[INFO]:[2022-09-26 20:03:05,954] - GameBot::is_nedeed_tracking check id 36415420
+root:[INFO]:[2022-09-26 20:03:05,954] - GameBot::is_nedeed_tracking for event id 36415420 get coef for ВНС - 3.2
+root:[INFO]:[2022-09-26 20:03:05,954] - GameBot::is_nedeed_tracking for event id 36415420 get coef for СТА Елена - 1.3
+root:[INFO]:[2022-09-26 20:03:05,955] - GameBot::is_nedeed_tracking for event id 36415420 favorit is СТА Елена
+root:[INFO]:[2022-09-26 20:03:05,955] - GameBot::get_info_event Set is 1, id 36415420, start tracking event
+root:[INFO]:[2022-09-26 20:03:05,955] - event data received successfully: event:Волейбол. Филиппины. Премьер-Лига, team_1:ВНС, team_2:СТА Елена
+root:[INFO]:[2022-09-26 20:03:05,955] - Create game object with id: 36415716
+root:[INFO]:[2022-09-26 20:03:05,955] - Call func GameBot::get_data, id: 36415716
+root:[INFO]:[2022-09-26 20:03:06,271] - GameBot::get_data successfully get data from API, id: 36415716
+root:[INFO]:[2022-09-26 20:03:06,271] - Check event: id 36415716
+root:[INFO]:[2022-09-26 20:03:06,271] - Event 36415716 is a game
+root:[INFO]:[2022-09-26 20:03:06,271] - Call GameBot::get_info_event for id: 36415716
+root:[INFO]:[2022-09-26 20:03:06,271] - GameBot::get_info_event Successfully get info for id 36415716: team1_name: Нэви, team2_name: Сигнал ХД Спайкерс
+root:[INFO]:[2022-09-26 20:03:06,271] - GameBot::get_info_event Check set: id 36415716, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:03:06,271] - GameBot::get_info_event Set is 1
+root:[INFO]:[2022-09-26 20:03:06,271] - GameBot::is_nedeed_tracking check id 36415716
+root:[INFO]:[2022-09-26 20:03:06,271] - GameBot::is_nedeed_tracking for event id 36415716 get coef for Нэви - 1.94
+root:[INFO]:[2022-09-26 20:03:06,272] - GameBot::is_nedeed_tracking for event id 36415716 get coef for Сигнал ХД Спайкерс - 1.76
+root:[INFO]:[2022-09-26 20:03:06,272] - GameBot::is_nedeed_tracking for event id 36415716 favorit is Сигнал ХД Спайкерс
+root:[INFO]:[2022-09-26 20:03:06,272] - GameBot::get_info_event game not tracking, delete game 36415716
+root:[INFO]:[2022-09-26 20:03:06,272] - delete game 36415716
+root:[INFO]:[2022-09-26 20:03:06,272] - event data received successfully: event:Волейбол. Филиппины. Премьер-Лига, team_1:Нэви, team_2:Сигнал ХД Спайкерс
+root:[INFO]:[2022-09-26 20:03:06,272] - Create game object with id: 36415678
+root:[INFO]:[2022-09-26 20:03:06,272] - Call func GameBot::get_data, id: 36415678
+root:[INFO]:[2022-09-26 20:03:06,418] - GameBot::get_data successfully get data from API, id: 36415678
+root:[INFO]:[2022-09-26 20:03:06,418] - Check event: id 36415678
+root:[INFO]:[2022-09-26 20:03:06,418] - Event 36415678 is a game
+root:[INFO]:[2022-09-26 20:03:06,418] - Call GameBot::get_info_event for id: 36415678
+root:[INFO]:[2022-09-26 20:03:06,418] - GameBot::get_info_event Successfully get info for id 36415678: team1_name: ВаЛеПа, team2_name: Саво
+root:[INFO]:[2022-09-26 20:03:06,419] - GameBot::get_info_event Check set: id 36415678, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:03:06,419] - GameBot::get_info_event Set is 1
+root:[INFO]:[2022-09-26 20:03:06,419] - GameBot::is_nedeed_tracking check id 36415678
+root:[INFO]:[2022-09-26 20:03:06,419] - GameBot::is_nedeed_tracking for event id 36415678 get coef for ВаЛеПа - 1.26
+root:[INFO]:[2022-09-26 20:03:06,419] - GameBot::is_nedeed_tracking for event id 36415678 get coef for Саво - 3.45
+root:[INFO]:[2022-09-26 20:03:06,419] - GameBot::is_nedeed_tracking for event id 36415678 favorit is ВаЛеПа
+root:[INFO]:[2022-09-26 20:03:06,419] - GameBot::get_info_event Set is 1, id 36415678, start tracking event
+root:[INFO]:[2022-09-26 20:03:06,419] - event data received successfully: event:Волейбол. Финляндия. Чемпионат, team_1:ВаЛеПа, team_2:Саво
+root:[INFO]:[2022-09-26 20:03:06,419] - Create game object with id: 36412153
+root:[INFO]:[2022-09-26 20:03:06,419] - Call func GameBot::get_data, id: 36412153
+root:[INFO]:[2022-09-26 20:03:06,564] - GameBot::get_data successfully get data from API, id: 36412153
+root:[INFO]:[2022-09-26 20:03:06,564] - Check event: id 36412153
+root:[INFO]:[2022-09-26 20:03:06,564] - Event 36412153 is a game
+root:[INFO]:[2022-09-26 20:03:06,564] - Call GameBot::get_info_event for id: 36412153
+root:[INFO]:[2022-09-26 20:03:06,564] - GameBot::get_info_event Successfully get info for id 36412153: team1_name: Залом Острава-Забрег, team2_name: Сокол Богумин
+root:[INFO]:[2022-09-26 20:03:06,564] - event data received successfully: event:Волейбол. Чехия. Региональная лига, team_1:Залом Острава-Забрег, team_2:Сокол Богумин
+root:[INFO]:[2022-09-26 20:03:06,564] - Create game object with id: 36412174
+root:[INFO]:[2022-09-26 20:03:06,564] - Call func GameBot::get_data, id: 36412174
+root:[INFO]:[2022-09-26 20:03:06,717] - GameBot::get_data successfully get data from API, id: 36412174
+root:[INFO]:[2022-09-26 20:03:06,717] - Check event: id 36412174
+root:[INFO]:[2022-09-26 20:03:06,717] - Event 36412174 is a game
+root:[INFO]:[2022-09-26 20:03:06,717] - Call GameBot::get_info_event for id: 36412174
+root:[INFO]:[2022-09-26 20:03:06,717] - GameBot::get_info_event Successfully get info for id 36412174: team1_name: Сан-Паулу U19 (ж), team2_name: Прайя Гранде U19 (ж)
+root:[INFO]:[2022-09-26 20:03:06,718] - event data received successfully: event:Волейбол. Жен. До 19 лет. Бразилия. Паулиста, team_1:Сан-Паулу U19 (ж), team_2:Прайя Гранде U19 (ж)
+root:[INFO]:[2022-09-26 20:03:06,718] - Create game object with id: 36412154
+root:[INFO]:[2022-09-26 20:03:06,718] - Call func GameBot::get_data, id: 36412154
+root:[INFO]:[2022-09-26 20:03:06,867] - GameBot::get_data successfully get data from API, id: 36412154
+root:[INFO]:[2022-09-26 20:03:06,868] - Check event: id 36412154
+root:[INFO]:[2022-09-26 20:03:06,868] - Event 36412154 is a game
+root:[INFO]:[2022-09-26 20:03:06,868] - Call GameBot::get_info_event for id: 36412154
+root:[INFO]:[2022-09-26 20:03:06,868] - GameBot::get_info_event Successfully get info for id 36412154: team1_name: ВК Градец-Кралове Б (ж), team2_name: Сокол Хлумец над Цидлиноу (ж)
+root:[INFO]:[2022-09-26 20:03:06,868] - GameBot::get_info_event Check set: id 36412154, param name in json 3-й сет
+root:[INFO]:[2022-09-26 20:03:06,868] - GameBot::get_info_event Set is 3
+root:[INFO]:[2022-09-26 20:03:06,868] - GameBot::get_info_event the event is not suitable for tracking, delete event 36412154
+root:[INFO]:[2022-09-26 20:03:06,868] - delete game 36412154
+root:[INFO]:[2022-09-26 20:03:06,868] - event data received successfully: event:Волейбол. Жен. Чехия. Региональная лига, team_1:ВК Градец-Кралове Б (ж), team_2:Сокол Хлумец над Цидлиноу (ж)
+root:[INFO]:[2022-09-26 20:03:06,868] - Create game object with id: 36412188
+root:[INFO]:[2022-09-26 20:03:06,868] - Call func GameBot::get_data, id: 36412188
+root:[INFO]:[2022-09-26 20:03:07,025] - GameBot::get_data successfully get data from API, id: 36412188
+root:[INFO]:[2022-09-26 20:03:07,026] - Check event: id 36412188
+root:[INFO]:[2022-09-26 20:03:07,026] - Event 36412188 is a game
+root:[INFO]:[2022-09-26 20:03:07,026] - Call GameBot::get_info_event for id: 36412188
+root:[INFO]:[2022-09-26 20:03:07,026] - GameBot::get_info_event Successfully get info for id 36412188: team1_name: Тргове-Свини (ж), team2_name: СКП Ческе-Будеевице Ц (ж)
+root:[INFO]:[2022-09-26 20:03:07,026] - GameBot::get_info_event Check set: id 36412188, param name in json 3-й сет
+root:[INFO]:[2022-09-26 20:03:07,026] - GameBot::get_info_event Set is 3
+root:[INFO]:[2022-09-26 20:03:07,026] - GameBot::get_info_event the event is not suitable for tracking, delete event 36412188
+root:[INFO]:[2022-09-26 20:03:07,026] - delete game 36412188
+root:[INFO]:[2022-09-26 20:03:07,026] - event data received successfully: event:Волейбол. Жен. Чехия. Региональная лига, team_1:Тргове-Свини (ж), team_2:СКП Ческе-Будеевице Ц (ж)
+root:[INFO]:[2022-09-26 20:03:07,026] - Create game object with id: 36412185
+root:[INFO]:[2022-09-26 20:03:07,026] - Call func GameBot::get_data, id: 36412185
+root:[INFO]:[2022-09-26 20:03:07,185] - GameBot::get_data successfully get data from API, id: 36412185
+root:[INFO]:[2022-09-26 20:03:07,185] - Check event: id 36412185
+root:[INFO]:[2022-09-26 20:03:07,185] - Event 36412185 is a game
+root:[INFO]:[2022-09-26 20:03:07,185] - Call GameBot::get_info_event for id: 36412185
+root:[INFO]:[2022-09-26 20:03:07,185] - GameBot::get_info_event Successfully get info for id 36412185: team1_name: Метеор Ческе Будеевице (ж), team2_name: ЧЗ Страконице (ж)
+root:[INFO]:[2022-09-26 20:03:07,186] - event data received successfully: event:Волейбол. Жен. Чехия. Региональная лига, team_1:Метеор Ческе Будеевице (ж), team_2:ЧЗ Страконице (ж)
+root:[INFO]:[2022-09-26 20:03:07,186] - Create game object with id: 36228294
+root:[INFO]:[2022-09-26 20:03:07,186] - Call func GameBot::get_data, id: 36228294
+root:[INFO]:[2022-09-26 20:03:07,370] - GameBot::get_data successfully get data from API, id: 36228294
+root:[INFO]:[2022-09-26 20:03:07,370] - Check event: id 36228294
+root:[INFO]:[2022-09-26 20:03:07,370] - Event 36228294 not game
+root:[INFO]:[2022-09-26 20:03:07,370] - Create game object with id: 36228296
+root:[INFO]:[2022-09-26 20:03:07,370] - Call func GameBot::get_data, id: 36228296
+root:[INFO]:[2022-09-26 20:03:07,529] - GameBot::get_data successfully get data from API, id: 36228296
+root:[INFO]:[2022-09-26 20:03:07,529] - Check event: id 36228296
+root:[INFO]:[2022-09-26 20:03:07,529] - Event 36228296 not game
+root:[INFO]:[2022-09-26 20:03:07,530] - Create game object with id: 36228295
+root:[INFO]:[2022-09-26 20:03:07,530] - Call func GameBot::get_data, id: 36228295
+root:[INFO]:[2022-09-26 20:03:07,718] - GameBot::get_data successfully get data from API, id: 36228295
+root:[INFO]:[2022-09-26 20:03:07,718] - Check event: id 36228295
+root:[INFO]:[2022-09-26 20:03:07,718] - Event 36228295 not game
+root:[INFO]:[2022-09-26 20:03:07,718] - Create game object with id: 36228298
+root:[INFO]:[2022-09-26 20:03:07,718] - Call func GameBot::get_data, id: 36228298
+root:[INFO]:[2022-09-26 20:03:07,922] - GameBot::get_data successfully get data from API, id: 36228298
+root:[INFO]:[2022-09-26 20:03:07,922] - Check event: id 36228298
+root:[INFO]:[2022-09-26 20:03:07,922] - Event 36228298 not game
+root:[INFO]:[2022-09-26 20:03:07,923] - Create game object with id: 36228297
+root:[INFO]:[2022-09-26 20:03:07,923] - Call func GameBot::get_data, id: 36228297
+root:[INFO]:[2022-09-26 20:03:08,068] - GameBot::get_data successfully get data from API, id: 36228297
+root:[INFO]:[2022-09-26 20:03:08,069] - Check event: id 36228297
+root:[INFO]:[2022-09-26 20:03:08,069] - Event 36228297 not game
+root:[INFO]:[2022-09-26 20:03:08,069] - Create game object with id: 36228299
+root:[INFO]:[2022-09-26 20:03:08,069] - Call func GameBot::get_data, id: 36228299
+root:[INFO]:[2022-09-26 20:03:08,233] - GameBot::get_data successfully get data from API, id: 36228299
+root:[INFO]:[2022-09-26 20:03:08,234] - Check event: id 36228299
+root:[INFO]:[2022-09-26 20:03:08,234] - Event 36228299 not game
+root:[INFO]:[2022-09-26 20:03:08,234] - Range main list: 38
+root:[INFO]:[2022-09-26 20:03:08,234] - GameBot::get_info call 36401242
+root:[INFO]:[2022-09-26 20:03:08,234] - GameBot::get_info call 36396431
+root:[INFO]:[2022-09-26 20:03:08,234] - GameBot::get_info call 36401241
+root:[INFO]:[2022-09-26 20:03:08,234] - GameBot::get_info call 36401243
+root:[INFO]:[2022-09-26 20:03:08,234] - GameBot::get_info call 36396410
+root:[INFO]:[2022-09-26 20:03:08,234] - GameBot::get_info call 36401244
+root:[INFO]:[2022-09-26 20:03:08,234] - GameBot::get_info call 36396380
+root:[INFO]:[2022-09-26 20:03:08,234] - GameBot::get_info call 36401246
+root:[INFO]:[2022-09-26 20:03:08,234] - GameBot::get_info call 36401247
+root:[INFO]:[2022-09-26 20:03:08,234] - GameBot::get_info call 36407486
+root:[INFO]:[2022-09-26 20:03:08,235] - GameBot::get_info call 36407484
+root:[INFO]:[2022-09-26 20:03:08,235] - GameBot::get_info call 36412159
+root:[INFO]:[2022-09-26 20:03:08,235] - GameBot::get_info call 36412168
+root:[INFO]:[2022-09-26 20:03:08,235] - GameBot::get_info call 36412169
+root:[INFO]:[2022-09-26 20:03:08,235] - GameBot::get_info call 36412175
+root:[INFO]:[2022-09-26 20:03:08,235] - GameBot::get_info call 36412178
+root:[INFO]:[2022-09-26 20:03:08,235] - GameBot::get_info call 36412179
+root:[INFO]:[2022-09-26 20:03:08,235] - GameBot::get_info call 36412186
+root:[INFO]:[2022-09-26 20:03:08,235] - GameBot::get_info call 36412173
+root:[INFO]:[2022-09-26 20:03:08,235] - GameBot::get_info call 36412171
+root:[INFO]:[2022-09-26 20:03:08,235] - GameBot::get_info call 36415140
+root:[INFO]:[2022-09-26 20:03:08,235] - GameBot::get_info call 36412187
+root:[INFO]:[2022-09-26 20:03:08,235] - GameBot::get_info call 36412172
+root:[INFO]:[2022-09-26 20:03:08,235] - GameBot::get_info call 36412164
+root:[INFO]:[2022-09-26 20:03:08,235] - GameBot::get_info call 36415420
+root:[INFO]:[2022-09-26 20:03:08,236] - GameBot::get_info call 36415716
+root:[INFO]:[2022-09-26 20:03:08,236] - GameBot::get_info call 36415678
+root:[INFO]:[2022-09-26 20:03:08,236] - GameBot::get_info call 36412153
+root:[INFO]:[2022-09-26 20:03:08,236] - GameBot::get_info call 36412174
+root:[INFO]:[2022-09-26 20:03:08,236] - GameBot::get_info call 36412154
+root:[INFO]:[2022-09-26 20:03:08,236] - GameBot::get_info call 36412188
+root:[INFO]:[2022-09-26 20:03:08,236] - GameBot::get_info call 36412185
+root:[INFO]:[2022-09-26 20:03:08,236] - GameBot::get_info call 36228294
+root:[INFO]:[2022-09-26 20:03:08,236] - GameBot::get_info call 36228296
+root:[INFO]:[2022-09-26 20:03:08,236] - GameBot::get_info call 36228295
+root:[INFO]:[2022-09-26 20:03:08,236] - GameBot::get_info call 36228298
+root:[INFO]:[2022-09-26 20:03:08,236] - GameBot::get_info call 36228297
+root:[INFO]:[2022-09-26 20:03:08,236] - GameBot::get_info call 36228299
+root:[INFO]:[2022-09-26 20:04:10,861] - Range main list: 38
+root:[INFO]:[2022-09-26 20:04:11,007] - GameBot::update_data successfully get data from API, id: 36401242
+root:[INFO]:[2022-09-26 20:04:11,008] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:04:11,008] - delete game 36401242
+root:[INFO]:[2022-09-26 20:04:11,008] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:04:11,008] - delete game 36401242
+root:[INFO]:[2022-09-26 20:04:11,008] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:04:11,008] - delete game 36401242
+root:[INFO]:[2022-09-26 20:04:11,008] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:04:11,008] - delete game 36401242
+root:[INFO]:[2022-09-26 20:04:11,008] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:04:11,008] - delete game 36401242
+root:[INFO]:[2022-09-26 20:04:11,008] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:04:11,008] - delete game 36401242
+root:[INFO]:[2022-09-26 20:04:11,008] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:04:11,008] - delete game 36401242
+root:[INFO]:[2022-09-26 20:04:11,170] - GameBot::update_data successfully get data from API, id: 36396431
+root:[INFO]:[2022-09-26 20:04:11,170] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:04:11,171] - delete game 36396431
+root:[INFO]:[2022-09-26 20:04:11,171] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:04:11,171] - delete game 36396431
+root:[INFO]:[2022-09-26 20:04:11,171] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:04:11,171] - delete game 36396431
+root:[INFO]:[2022-09-26 20:04:11,171] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:04:11,171] - delete game 36396431
+root:[INFO]:[2022-09-26 20:04:11,171] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:04:11,171] - delete game 36396431
+root:[INFO]:[2022-09-26 20:04:11,171] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:04:11,171] - delete game 36396431
+root:[INFO]:[2022-09-26 20:04:11,171] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:04:11,171] - delete game 36396431
+root:[INFO]:[2022-09-26 20:04:11,171] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:04:11,171] - delete game 36396431
+root:[INFO]:[2022-09-26 20:04:11,171] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:04:11,171] - delete game 36396431
+root:[INFO]:[2022-09-26 20:04:11,324] - GameBot::update_data successfully get data from API, id: 36401241
+root:[INFO]:[2022-09-26 20:04:11,324] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:04:11,324] - delete game 36401241
+root:[INFO]:[2022-09-26 20:04:11,324] - GameBot::update_data Check set: id 36401241, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:04:11,324] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:04:11,324] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:04:11,325] - delete game 36401241
+root:[INFO]:[2022-09-26 20:04:11,325] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:04:11,325] - delete game 36401241
+root:[INFO]:[2022-09-26 20:04:11,325] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:04:11,325] - delete game 36401241
+root:[INFO]:[2022-09-26 20:04:11,325] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:04:11,325] - delete game 36401241
+root:[INFO]:[2022-09-26 20:04:11,325] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:04:11,325] - delete game 36401241
+root:[INFO]:[2022-09-26 20:04:11,325] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:04:11,325] - delete game 36401241
+root:[INFO]:[2022-09-26 20:04:11,325] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:04:11,325] - delete game 36401241
+root:[INFO]:[2022-09-26 20:04:11,325] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:04:11,325] - delete game 36401241
+root:[INFO]:[2022-09-26 20:04:11,325] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:04:11,325] - delete game 36401241
+root:[INFO]:[2022-09-26 20:04:11,325] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:04:11,325] - delete game 36401241
+root:[INFO]:[2022-09-26 20:04:11,325] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:04:11,325] - delete game 36401241
+root:[INFO]:[2022-09-26 20:04:11,325] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:04:11,325] - delete game 36401241
+root:[INFO]:[2022-09-26 20:04:11,326] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:04:11,326] - delete game 36401241
+root:[INFO]:[2022-09-26 20:04:11,326] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:04:11,326] - delete game 36401241
+root:[INFO]:[2022-09-26 20:04:11,326] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:04:11,326] - delete game 36401241
+root:[INFO]:[2022-09-26 20:04:11,326] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:04:11,326] - delete game 36401241
+root:[INFO]:[2022-09-26 20:04:11,326] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:04:11,326] - delete game 36401241
+root:[INFO]:[2022-09-26 20:04:11,326] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:04:11,326] - delete game 36401241
+root:[INFO]:[2022-09-26 20:04:11,326] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:04:11,326] - delete game 36401241
+root:[INFO]:[2022-09-26 20:04:11,486] - GameBot::update_data successfully get data from API, id: 36401243
+root:[INFO]:[2022-09-26 20:04:11,486] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:04:11,486] - delete game 36401243
+root:[INFO]:[2022-09-26 20:04:11,486] - GameBot::update_data Check set: id 36401243, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:04:11,486] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:04:11,486] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:04:11,486] - delete game 36401243
+root:[INFO]:[2022-09-26 20:04:11,486] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:04:11,487] - delete game 36401243
+root:[INFO]:[2022-09-26 20:04:11,487] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:04:11,487] - delete game 36401243
+root:[INFO]:[2022-09-26 20:04:11,487] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:04:11,487] - delete game 36401243
+root:[INFO]:[2022-09-26 20:04:11,487] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:04:11,487] - delete game 36401243
+root:[INFO]:[2022-09-26 20:04:11,487] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:04:11,487] - delete game 36401243
+root:[INFO]:[2022-09-26 20:04:11,487] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:04:11,487] - delete game 36401243
+root:[INFO]:[2022-09-26 20:04:11,487] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:04:11,487] - delete game 36401243
+root:[INFO]:[2022-09-26 20:04:11,487] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:04:11,487] - delete game 36401243
+root:[INFO]:[2022-09-26 20:04:11,487] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:04:11,487] - delete game 36401243
+root:[INFO]:[2022-09-26 20:04:11,487] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:04:11,487] - delete game 36401243
+root:[INFO]:[2022-09-26 20:04:11,487] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:04:11,488] - delete game 36401243
+root:[INFO]:[2022-09-26 20:04:11,488] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:04:11,488] - delete game 36401243
+root:[INFO]:[2022-09-26 20:04:11,488] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:04:11,488] - delete game 36401243
+root:[INFO]:[2022-09-26 20:04:11,488] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:04:11,488] - delete game 36401243
+root:[INFO]:[2022-09-26 20:04:11,488] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:04:11,488] - delete game 36401243
+root:[INFO]:[2022-09-26 20:04:11,488] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:04:11,488] - delete game 36401243
+root:[INFO]:[2022-09-26 20:04:11,488] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:04:11,488] - delete game 36401243
+root:[INFO]:[2022-09-26 20:04:11,488] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:04:11,488] - delete game 36401243
+root:[INFO]:[2022-09-26 20:04:11,488] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:04:11,488] - delete game 36401243
+root:[INFO]:[2022-09-26 20:04:11,625] - GameBot::update_data successfully get data from API, id: 36396410
+root:[INFO]:[2022-09-26 20:04:11,625] - GameBot::update_data delete event 36396410
+root:[INFO]:[2022-09-26 20:04:11,625] - delete game 36396410
+root:[INFO]:[2022-09-26 20:04:11,625] - GameBot::update_data delete event 36396410
+root:[INFO]:[2022-09-26 20:04:11,625] - delete game 36396410
+root:[INFO]:[2022-09-26 20:04:11,769] - GameBot::update_data successfully get data from API, id: 36401244
+root:[INFO]:[2022-09-26 20:04:11,769] - GameBot::update_data delete event 36401244
+root:[INFO]:[2022-09-26 20:04:11,769] - delete game 36401244
+root:[INFO]:[2022-09-26 20:04:11,769] - GameBot::update_data delete event 36401244
+root:[INFO]:[2022-09-26 20:04:11,769] - delete game 36401244
+root:[INFO]:[2022-09-26 20:04:11,921] - GameBot::update_data successfully get data from API, id: 36396380
+root:[INFO]:[2022-09-26 20:04:11,921] - GameBot::update_data delete event 36396380
+root:[INFO]:[2022-09-26 20:04:11,921] - delete game 36396380
+root:[INFO]:[2022-09-26 20:04:11,921] - GameBot::update_data Check set: id 36396380, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:04:11,921] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:04:12,062] - GameBot::update_data successfully get data from API, id: 36401246
+root:[INFO]:[2022-09-26 20:04:12,062] - GameBot::update_data delete event 36401246
+root:[INFO]:[2022-09-26 20:04:12,062] - delete game 36401246
+root:[INFO]:[2022-09-26 20:04:12,062] - GameBot::update_data delete event 36401246
+root:[INFO]:[2022-09-26 20:04:12,062] - delete game 36401246
+root:[INFO]:[2022-09-26 20:04:12,225] - GameBot::update_data successfully get data from API, id: 36401247
+root:[INFO]:[2022-09-26 20:04:12,226] - GameBot::update_data delete event 36401247
+root:[INFO]:[2022-09-26 20:04:12,226] - delete game 36401247
+root:[INFO]:[2022-09-26 20:04:12,226] - GameBot::update_data Check set: id 36401247, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:04:12,226] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:04:12,401] - GameBot::update_data successfully get data from API, id: 36407486
+root:[INFO]:[2022-09-26 20:04:12,401] - GameBot::update_data delete event 36407486
+root:[INFO]:[2022-09-26 20:04:12,401] - delete game 36407486
+root:[INFO]:[2022-09-26 20:04:12,401] - GameBot::update_data delete event 36407486
+root:[INFO]:[2022-09-26 20:04:12,401] - delete game 36407486
+root:[INFO]:[2022-09-26 20:04:12,596] - GameBot::update_data successfully get data from API, id: 36407484
+root:[INFO]:[2022-09-26 20:04:12,596] - GameBot::update_data delete event 36407484
+root:[INFO]:[2022-09-26 20:04:12,596] - delete game 36407484
+root:[INFO]:[2022-09-26 20:04:12,596] - GameBot::update_data Check set: id 36407484, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:04:12,596] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:04:12,782] - GameBot::update_data successfully get data from API, id: 36412159
+root:[INFO]:[2022-09-26 20:04:12,782] - GameBot::update_data delete event 36412159
+root:[INFO]:[2022-09-26 20:04:12,782] - delete game 36412159
+root:[INFO]:[2022-09-26 20:04:12,782] - GameBot::update_data delete event 36412159
+root:[INFO]:[2022-09-26 20:04:12,782] - delete game 36412159
+root:[INFO]:[2022-09-26 20:04:12,782] - GameBot::update_data delete event 36412159
+root:[INFO]:[2022-09-26 20:04:12,782] - delete game 36412159
+root:[INFO]:[2022-09-26 20:04:12,923] - GameBot::update_data successfully get data from API, id: 36412168
+root:[INFO]:[2022-09-26 20:04:12,923] - GameBot::update_data delete event 36412168
+root:[INFO]:[2022-09-26 20:04:12,923] - delete game 36412168
+root:[INFO]:[2022-09-26 20:04:12,923] - GameBot::update_data Check set: id 36412168, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:04:12,923] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:04:13,079] - GameBot::update_data successfully get data from API, id: 36412169
+root:[INFO]:[2022-09-26 20:04:13,079] - GameBot::update_data delete event 36412169
+root:[INFO]:[2022-09-26 20:04:13,079] - delete game 36412169
+root:[INFO]:[2022-09-26 20:04:13,079] - GameBot::update_data Check set: id 36412169, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:04:13,079] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:04:13,243] - GameBot::update_data successfully get data from API, id: 36412175
+root:[INFO]:[2022-09-26 20:04:13,243] - GameBot::update_data delete event 36412175
+root:[INFO]:[2022-09-26 20:04:13,243] - delete game 36412175
+root:[INFO]:[2022-09-26 20:04:13,243] - GameBot::update_data Check set: id 36412175, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:04:13,244] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:04:13,391] - GameBot::update_data successfully get data from API, id: 36412178
+root:[INFO]:[2022-09-26 20:04:13,391] - GameBot::update_data delete event 36412178
+root:[INFO]:[2022-09-26 20:04:13,391] - delete game 36412178
+root:[INFO]:[2022-09-26 20:04:13,391] - GameBot::update_data Check set: id 36412178, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:04:13,391] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:04:13,527] - GameBot::update_data successfully get data from API, id: 36412179
+root:[INFO]:[2022-09-26 20:04:13,528] - GameBot::update_data delete event 36412179
+root:[INFO]:[2022-09-26 20:04:13,528] - delete game 36412179
+root:[INFO]:[2022-09-26 20:04:13,528] - GameBot::update_data Check set: id 36412179, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:04:13,528] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:04:13,685] - GameBot::update_data successfully get data from API, id: 36412186
+root:[INFO]:[2022-09-26 20:04:13,685] - GameBot::update_data delete event 36412186
+root:[INFO]:[2022-09-26 20:04:13,685] - delete game 36412186
+root:[INFO]:[2022-09-26 20:04:13,685] - GameBot::update_data Check set: id 36412186, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:04:13,685] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:04:13,825] - GameBot::update_data successfully get data from API, id: 36412173
+root:[INFO]:[2022-09-26 20:04:13,825] - GameBot::update_data delete event 36412173
+root:[INFO]:[2022-09-26 20:04:13,825] - delete game 36412173
+root:[INFO]:[2022-09-26 20:04:13,963] - GameBot::update_data successfully get data from API, id: 36412171
+root:[INFO]:[2022-09-26 20:04:13,963] - GameBot::update_data delete event 36412171
+root:[INFO]:[2022-09-26 20:04:13,963] - delete game 36412171
+root:[INFO]:[2022-09-26 20:04:14,110] - GameBot::update_data successfully get data from API, id: 36415140
+root:[INFO]:[2022-09-26 20:04:14,110] - GameBot::update_data delete event 36415140
+root:[INFO]:[2022-09-26 20:04:14,110] - delete game 36415140
+root:[INFO]:[2022-09-26 20:04:14,259] - GameBot::update_data successfully get data from API, id: 36412187
+root:[INFO]:[2022-09-26 20:04:14,259] - GameBot::update_data delete event 36412187
+root:[INFO]:[2022-09-26 20:04:14,259] - delete game 36412187
+root:[INFO]:[2022-09-26 20:04:14,259] - GameBot::update_data Check set: id 36412187, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:04:14,259] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:04:14,390] - GameBot::update_data successfully get data from API, id: 36412172
+root:[INFO]:[2022-09-26 20:04:14,390] - GameBot::update_data delete event 36412172
+root:[INFO]:[2022-09-26 20:04:14,390] - delete game 36412172
+root:[INFO]:[2022-09-26 20:04:14,537] - GameBot::update_data successfully get data from API, id: 36412164
+root:[INFO]:[2022-09-26 20:04:14,537] - GameBot::update_data delete event 36412164
+root:[INFO]:[2022-09-26 20:04:14,537] - delete game 36412164
+root:[INFO]:[2022-09-26 20:04:14,537] - GameBot::update_data delete event 36412164
+root:[INFO]:[2022-09-26 20:04:14,537] - delete game 36412164
+root:[INFO]:[2022-09-26 20:04:14,686] - GameBot::update_data successfully get data from API, id: 36415420
+root:[INFO]:[2022-09-26 20:04:14,686] - GameBot::update_data delete event 36415420
+root:[INFO]:[2022-09-26 20:04:14,686] - delete game 36415420
+root:[INFO]:[2022-09-26 20:04:14,686] - GameBot::update_data Check set: id 36415420, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:04:14,686] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:04:14,832] - GameBot::update_data successfully get data from API, id: 36415716
+root:[INFO]:[2022-09-26 20:04:14,832] - GameBot::update_data delete event 36415716
+root:[INFO]:[2022-09-26 20:04:14,832] - delete game 36415716
+root:[INFO]:[2022-09-26 20:04:14,832] - GameBot::update_data delete event 36415716
+root:[INFO]:[2022-09-26 20:04:14,832] - delete game 36415716
+root:[INFO]:[2022-09-26 20:04:14,973] - GameBot::update_data successfully get data from API, id: 36415678
+root:[INFO]:[2022-09-26 20:04:14,973] - GameBot::update_data delete event 36415678
+root:[INFO]:[2022-09-26 20:04:14,973] - delete game 36415678
+root:[INFO]:[2022-09-26 20:04:14,973] - GameBot::update_data Check set: id 36415678, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:04:14,973] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:04:15,126] - GameBot::update_data successfully get data from API, id: 36412153
+root:[INFO]:[2022-09-26 20:04:15,126] - GameBot::update_data delete event 36412153
+root:[INFO]:[2022-09-26 20:04:15,126] - delete game 36412153
+root:[INFO]:[2022-09-26 20:04:15,263] - GameBot::update_data successfully get data from API, id: 36412174
+root:[INFO]:[2022-09-26 20:04:15,263] - GameBot::update_data delete event 36412174
+root:[INFO]:[2022-09-26 20:04:15,263] - delete game 36412174
+root:[INFO]:[2022-09-26 20:04:15,420] - GameBot::update_data successfully get data from API, id: 36412154
+root:[INFO]:[2022-09-26 20:04:15,624] - GameBot::update_data successfully get data from API, id: 36412188
+root:[INFO]:[2022-09-26 20:04:15,624] - GameBot::update_data delete event 36412188
+root:[INFO]:[2022-09-26 20:04:15,624] - delete game 36412188
+root:[INFO]:[2022-09-26 20:04:15,624] - GameBot::update_data delete event 36412188
+root:[INFO]:[2022-09-26 20:04:15,624] - delete game 36412188
+root:[INFO]:[2022-09-26 20:04:15,808] - GameBot::update_data successfully get data from API, id: 36412185
+root:[INFO]:[2022-09-26 20:04:15,808] - GameBot::update_data delete event 36412185
+root:[INFO]:[2022-09-26 20:04:15,808] - delete game 36412185
+root:[INFO]:[2022-09-26 20:04:15,975] - GameBot::update_data successfully get data from API, id: 36228294
+root:[INFO]:[2022-09-26 20:04:15,975] - GameBot::update_data delete event 36228294
+root:[INFO]:[2022-09-26 20:04:15,975] - delete game 36228294
+root:[INFO]:[2022-09-26 20:04:16,192] - GameBot::update_data successfully get data from API, id: 36228296
+root:[INFO]:[2022-09-26 20:04:16,192] - GameBot::update_data delete event 36228296
+root:[INFO]:[2022-09-26 20:04:16,193] - delete game 36228296
+root:[INFO]:[2022-09-26 20:04:19,346] - GameBot::update_data successfully get data from API, id: 36228295
+root:[INFO]:[2022-09-26 20:04:19,346] - GameBot::update_data delete event 36228295
+root:[INFO]:[2022-09-26 20:04:19,347] - delete game 36228295
+root:[INFO]:[2022-09-26 20:04:19,486] - GameBot::update_data successfully get data from API, id: 36228298
+root:[INFO]:[2022-09-26 20:04:19,486] - GameBot::update_data delete event 36228298
+root:[INFO]:[2022-09-26 20:04:19,486] - delete game 36228298
+root:[INFO]:[2022-09-26 20:04:19,632] - GameBot::update_data successfully get data from API, id: 36228297
+root:[INFO]:[2022-09-26 20:04:19,632] - GameBot::update_data delete event 36228297
+root:[INFO]:[2022-09-26 20:04:19,632] - delete game 36228297
+root:[INFO]:[2022-09-26 20:04:19,781] - GameBot::update_data successfully get data from API, id: 36228299
+root:[INFO]:[2022-09-26 20:04:19,781] - GameBot::update_data delete event 36228299
+root:[INFO]:[2022-09-26 20:04:19,781] - delete game 36228299
+root:[INFO]:[2022-09-26 20:04:19,781] - GameBot::get_info call 36401242
+root:[INFO]:[2022-09-26 20:04:19,781] - GameBot::get_info call 36396431
+root:[INFO]:[2022-09-26 20:04:19,781] - GameBot::get_info call 36401241
+root:[INFO]:[2022-09-26 20:04:19,781] - GameBot::get_info call 36401243
+root:[INFO]:[2022-09-26 20:04:19,782] - GameBot::get_info call 36396410
+root:[INFO]:[2022-09-26 20:04:19,782] - GameBot::get_info call 36401244
+root:[INFO]:[2022-09-26 20:04:19,782] - GameBot::get_info call 36396380
+root:[INFO]:[2022-09-26 20:04:19,782] - GameBot::get_info call 36401246
+root:[INFO]:[2022-09-26 20:04:19,782] - GameBot::get_info call 36401247
+root:[INFO]:[2022-09-26 20:04:19,782] - GameBot::get_info call 36407486
+root:[INFO]:[2022-09-26 20:04:19,782] - GameBot::get_info call 36407484
+root:[INFO]:[2022-09-26 20:04:19,782] - GameBot::get_info call 36412159
+root:[INFO]:[2022-09-26 20:04:19,782] - GameBot::get_info call 36412168
+root:[INFO]:[2022-09-26 20:04:19,782] - GameBot::get_info call 36412169
+root:[INFO]:[2022-09-26 20:04:19,782] - GameBot::get_info call 36412175
+root:[INFO]:[2022-09-26 20:04:19,782] - GameBot::get_info call 36412178
+root:[INFO]:[2022-09-26 20:04:19,782] - GameBot::get_info call 36412179
+root:[INFO]:[2022-09-26 20:04:19,782] - GameBot::get_info call 36412186
+root:[INFO]:[2022-09-26 20:04:19,783] - GameBot::get_info call 36412173
+root:[INFO]:[2022-09-26 20:04:19,783] - GameBot::get_info call 36412171
+root:[INFO]:[2022-09-26 20:04:19,783] - GameBot::get_info call 36415140
+root:[INFO]:[2022-09-26 20:04:19,783] - GameBot::get_info call 36412187
+root:[INFO]:[2022-09-26 20:04:19,783] - GameBot::get_info call 36412172
+root:[INFO]:[2022-09-26 20:04:19,783] - GameBot::get_info call 36412164
+root:[INFO]:[2022-09-26 20:04:19,783] - GameBot::get_info call 36415420
+root:[INFO]:[2022-09-26 20:04:19,783] - GameBot::get_info call 36415716
+root:[INFO]:[2022-09-26 20:04:19,783] - GameBot::get_info call 36415678
+root:[INFO]:[2022-09-26 20:04:19,783] - GameBot::get_info call 36412153
+root:[INFO]:[2022-09-26 20:04:19,783] - GameBot::get_info call 36412174
+root:[INFO]:[2022-09-26 20:04:19,783] - GameBot::get_info call 36412154
+root:[INFO]:[2022-09-26 20:04:19,783] - GameBot::get_info call 36412188
+root:[INFO]:[2022-09-26 20:04:19,783] - GameBot::get_info call 36412185
+root:[INFO]:[2022-09-26 20:04:19,783] - GameBot::get_info call 36228294
+root:[INFO]:[2022-09-26 20:04:19,783] - GameBot::get_info call 36228296
+root:[INFO]:[2022-09-26 20:04:19,783] - GameBot::get_info call 36228295
+root:[INFO]:[2022-09-26 20:04:19,784] - GameBot::get_info call 36228298
+root:[INFO]:[2022-09-26 20:04:19,784] - GameBot::get_info call 36228297
+root:[INFO]:[2022-09-26 20:04:19,784] - GameBot::get_info call 36228299
+root:[INFO]:[2022-09-26 20:05:20,568] - Range main list: 38
+root:[INFO]:[2022-09-26 20:05:20,698] - GameBot::update_data successfully get data from API, id: 36401242
+root:[INFO]:[2022-09-26 20:05:20,698] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:05:20,698] - delete game 36401242
+root:[INFO]:[2022-09-26 20:05:20,699] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:05:20,699] - delete game 36401242
+root:[INFO]:[2022-09-26 20:05:20,699] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:05:20,699] - delete game 36401242
+root:[INFO]:[2022-09-26 20:05:20,699] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:05:20,699] - delete game 36401242
+root:[INFO]:[2022-09-26 20:05:20,699] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:05:20,699] - delete game 36401242
+root:[INFO]:[2022-09-26 20:05:20,699] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:05:20,699] - delete game 36401242
+root:[INFO]:[2022-09-26 20:05:20,699] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:05:20,699] - delete game 36401242
+root:[INFO]:[2022-09-26 20:05:20,842] - GameBot::update_data successfully get data from API, id: 36396431
+root:[INFO]:[2022-09-26 20:05:20,843] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:05:20,843] - delete game 36396431
+root:[INFO]:[2022-09-26 20:05:20,843] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:05:20,843] - delete game 36396431
+root:[INFO]:[2022-09-26 20:05:20,843] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:05:20,843] - delete game 36396431
+root:[INFO]:[2022-09-26 20:05:20,843] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:05:20,843] - delete game 36396431
+root:[INFO]:[2022-09-26 20:05:20,843] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:05:20,843] - delete game 36396431
+root:[INFO]:[2022-09-26 20:05:20,843] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:05:20,843] - delete game 36396431
+root:[INFO]:[2022-09-26 20:05:20,843] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:05:20,843] - delete game 36396431
+root:[INFO]:[2022-09-26 20:05:20,843] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:05:20,843] - delete game 36396431
+root:[INFO]:[2022-09-26 20:05:20,843] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:05:20,843] - delete game 36396431
+root:[INFO]:[2022-09-26 20:05:21,023] - GameBot::update_data successfully get data from API, id: 36401241
+root:[INFO]:[2022-09-26 20:05:21,023] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:05:21,023] - delete game 36401241
+root:[INFO]:[2022-09-26 20:05:21,023] - GameBot::update_data Check set: id 36401241, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:05:21,023] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:05:21,024] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:05:21,024] - delete game 36401241
+root:[INFO]:[2022-09-26 20:05:21,024] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:05:21,024] - delete game 36401241
+root:[INFO]:[2022-09-26 20:05:21,024] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:05:21,024] - delete game 36401241
+root:[INFO]:[2022-09-26 20:05:21,024] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:05:21,024] - delete game 36401241
+root:[INFO]:[2022-09-26 20:05:21,024] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:05:21,024] - delete game 36401241
+root:[INFO]:[2022-09-26 20:05:21,024] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:05:21,024] - delete game 36401241
+root:[INFO]:[2022-09-26 20:05:21,024] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:05:21,024] - delete game 36401241
+root:[INFO]:[2022-09-26 20:05:21,024] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:05:21,024] - delete game 36401241
+root:[INFO]:[2022-09-26 20:05:21,024] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:05:21,024] - delete game 36401241
+root:[INFO]:[2022-09-26 20:05:21,024] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:05:21,025] - delete game 36401241
+root:[INFO]:[2022-09-26 20:05:21,025] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:05:21,025] - delete game 36401241
+root:[INFO]:[2022-09-26 20:05:21,025] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:05:21,025] - delete game 36401241
+root:[INFO]:[2022-09-26 20:05:21,025] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:05:21,025] - delete game 36401241
+root:[INFO]:[2022-09-26 20:05:21,025] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:05:21,025] - delete game 36401241
+root:[INFO]:[2022-09-26 20:05:21,025] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:05:21,025] - delete game 36401241
+root:[INFO]:[2022-09-26 20:05:21,025] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:05:21,025] - delete game 36401241
+root:[INFO]:[2022-09-26 20:05:21,025] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:05:21,025] - delete game 36401241
+root:[INFO]:[2022-09-26 20:05:21,025] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:05:21,025] - delete game 36401241
+root:[INFO]:[2022-09-26 20:05:21,025] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:05:21,025] - delete game 36401241
+root:[INFO]:[2022-09-26 20:05:21,186] - GameBot::update_data successfully get data from API, id: 36401243
+root:[INFO]:[2022-09-26 20:05:21,187] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:05:21,187] - delete game 36401243
+root:[INFO]:[2022-09-26 20:05:21,187] - GameBot::update_data Check set: id 36401243, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:05:21,187] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:05:21,187] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:05:21,187] - delete game 36401243
+root:[INFO]:[2022-09-26 20:05:21,187] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:05:21,187] - delete game 36401243
+root:[INFO]:[2022-09-26 20:05:21,187] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:05:21,187] - delete game 36401243
+root:[INFO]:[2022-09-26 20:05:21,187] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:05:21,187] - delete game 36401243
+root:[INFO]:[2022-09-26 20:05:21,187] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:05:21,187] - delete game 36401243
+root:[INFO]:[2022-09-26 20:05:21,187] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:05:21,187] - delete game 36401243
+root:[INFO]:[2022-09-26 20:05:21,187] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:05:21,187] - delete game 36401243
+root:[INFO]:[2022-09-26 20:05:21,187] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:05:21,188] - delete game 36401243
+root:[INFO]:[2022-09-26 20:05:21,188] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:05:21,188] - delete game 36401243
+root:[INFO]:[2022-09-26 20:05:21,188] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:05:21,188] - delete game 36401243
+root:[INFO]:[2022-09-26 20:05:21,188] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:05:21,188] - delete game 36401243
+root:[INFO]:[2022-09-26 20:05:21,188] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:05:21,188] - delete game 36401243
+root:[INFO]:[2022-09-26 20:05:21,188] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:05:21,188] - delete game 36401243
+root:[INFO]:[2022-09-26 20:05:21,188] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:05:21,188] - delete game 36401243
+root:[INFO]:[2022-09-26 20:05:21,188] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:05:21,188] - delete game 36401243
+root:[INFO]:[2022-09-26 20:05:21,188] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:05:21,188] - delete game 36401243
+root:[INFO]:[2022-09-26 20:05:21,188] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:05:21,188] - delete game 36401243
+root:[INFO]:[2022-09-26 20:05:21,188] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:05:21,188] - delete game 36401243
+root:[INFO]:[2022-09-26 20:05:21,189] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:05:21,189] - delete game 36401243
+root:[INFO]:[2022-09-26 20:05:21,189] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:05:21,189] - delete game 36401243
+root:[INFO]:[2022-09-26 20:05:21,348] - GameBot::update_data successfully get data from API, id: 36396410
+root:[INFO]:[2022-09-26 20:05:21,348] - GameBot::update_data delete event 36396410
+root:[INFO]:[2022-09-26 20:05:21,348] - delete game 36396410
+root:[INFO]:[2022-09-26 20:05:21,348] - GameBot::update_data delete event 36396410
+root:[INFO]:[2022-09-26 20:05:21,348] - delete game 36396410
+root:[INFO]:[2022-09-26 20:05:21,501] - GameBot::update_data successfully get data from API, id: 36401244
+root:[INFO]:[2022-09-26 20:05:21,501] - GameBot::update_data delete event 36401244
+root:[INFO]:[2022-09-26 20:05:21,502] - delete game 36401244
+root:[INFO]:[2022-09-26 20:05:21,502] - GameBot::update_data delete event 36401244
+root:[INFO]:[2022-09-26 20:05:21,502] - delete game 36401244
+root:[INFO]:[2022-09-26 20:05:21,649] - GameBot::update_data successfully get data from API, id: 36396380
+root:[INFO]:[2022-09-26 20:05:21,649] - GameBot::update_data delete event 36396380
+root:[INFO]:[2022-09-26 20:05:21,649] - delete game 36396380
+root:[INFO]:[2022-09-26 20:05:21,649] - GameBot::update_data Check set: id 36396380, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:05:21,650] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:05:21,789] - GameBot::update_data successfully get data from API, id: 36401246
+root:[INFO]:[2022-09-26 20:05:21,789] - GameBot::update_data delete event 36401246
+root:[INFO]:[2022-09-26 20:05:21,790] - delete game 36401246
+root:[INFO]:[2022-09-26 20:05:21,790] - GameBot::update_data delete event 36401246
+root:[INFO]:[2022-09-26 20:05:21,790] - delete game 36401246
+root:[INFO]:[2022-09-26 20:05:21,931] - GameBot::update_data successfully get data from API, id: 36401247
+root:[INFO]:[2022-09-26 20:05:21,931] - GameBot::update_data delete event 36401247
+root:[INFO]:[2022-09-26 20:05:21,931] - delete game 36401247
+root:[INFO]:[2022-09-26 20:05:21,931] - GameBot::update_data Check set: id 36401247, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:05:21,932] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:05:22,072] - GameBot::update_data successfully get data from API, id: 36407486
+root:[INFO]:[2022-09-26 20:05:22,072] - GameBot::update_data delete event 36407486
+root:[INFO]:[2022-09-26 20:05:22,072] - delete game 36407486
+root:[INFO]:[2022-09-26 20:05:22,073] - GameBot::update_data delete event 36407486
+root:[INFO]:[2022-09-26 20:05:22,073] - delete game 36407486
+root:[INFO]:[2022-09-26 20:05:22,213] - GameBot::update_data successfully get data from API, id: 36407484
+root:[INFO]:[2022-09-26 20:05:22,214] - GameBot::update_data delete event 36407484
+root:[INFO]:[2022-09-26 20:05:22,214] - delete game 36407484
+root:[INFO]:[2022-09-26 20:05:22,214] - GameBot::update_data Check set: id 36407484, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:05:22,214] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:05:22,360] - GameBot::update_data successfully get data from API, id: 36412159
+root:[INFO]:[2022-09-26 20:05:22,360] - GameBot::update_data delete event 36412159
+root:[INFO]:[2022-09-26 20:05:22,360] - delete game 36412159
+root:[INFO]:[2022-09-26 20:05:22,360] - GameBot::update_data delete event 36412159
+root:[INFO]:[2022-09-26 20:05:22,360] - delete game 36412159
+root:[INFO]:[2022-09-26 20:05:22,360] - GameBot::update_data delete event 36412159
+root:[INFO]:[2022-09-26 20:05:22,361] - delete game 36412159
+root:[INFO]:[2022-09-26 20:05:22,512] - GameBot::update_data successfully get data from API, id: 36412168
+root:[INFO]:[2022-09-26 20:05:22,512] - GameBot::update_data delete event 36412168
+root:[INFO]:[2022-09-26 20:05:22,512] - delete game 36412168
+root:[INFO]:[2022-09-26 20:05:22,512] - GameBot::update_data Check set: id 36412168, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:05:22,512] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:05:22,671] - GameBot::update_data successfully get data from API, id: 36412169
+root:[INFO]:[2022-09-26 20:05:22,672] - GameBot::update_data delete event 36412169
+root:[INFO]:[2022-09-26 20:05:22,672] - delete game 36412169
+root:[INFO]:[2022-09-26 20:05:22,672] - GameBot::update_data Check set: id 36412169, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:05:22,672] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:05:22,826] - GameBot::update_data successfully get data from API, id: 36412175
+root:[INFO]:[2022-09-26 20:05:22,826] - GameBot::update_data delete event 36412175
+root:[INFO]:[2022-09-26 20:05:22,826] - delete game 36412175
+root:[INFO]:[2022-09-26 20:05:22,827] - GameBot::update_data Check set: id 36412175, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:05:22,827] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:05:22,993] - GameBot::update_data successfully get data from API, id: 36412178
+root:[INFO]:[2022-09-26 20:05:22,994] - GameBot::update_data delete event 36412178
+root:[INFO]:[2022-09-26 20:05:22,994] - delete game 36412178
+root:[INFO]:[2022-09-26 20:05:22,994] - GameBot::update_data Check set: id 36412178, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:05:22,994] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:05:23,132] - GameBot::update_data successfully get data from API, id: 36412179
+root:[INFO]:[2022-09-26 20:05:23,132] - GameBot::update_data delete event 36412179
+root:[INFO]:[2022-09-26 20:05:23,132] - delete game 36412179
+root:[INFO]:[2022-09-26 20:05:23,132] - GameBot::update_data Check set: id 36412179, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:05:23,133] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:05:23,282] - GameBot::update_data successfully get data from API, id: 36412186
+root:[INFO]:[2022-09-26 20:05:23,282] - GameBot::update_data delete event 36412186
+root:[INFO]:[2022-09-26 20:05:23,282] - delete game 36412186
+root:[INFO]:[2022-09-26 20:05:23,282] - GameBot::update_data Check set: id 36412186, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:05:23,282] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:05:23,424] - GameBot::update_data successfully get data from API, id: 36412173
+root:[INFO]:[2022-09-26 20:05:23,424] - GameBot::update_data delete event 36412173
+root:[INFO]:[2022-09-26 20:05:23,424] - delete game 36412173
+root:[INFO]:[2022-09-26 20:05:23,568] - GameBot::update_data successfully get data from API, id: 36412171
+root:[INFO]:[2022-09-26 20:05:23,568] - GameBot::update_data delete event 36412171
+root:[INFO]:[2022-09-26 20:05:23,568] - delete game 36412171
+root:[INFO]:[2022-09-26 20:05:23,729] - GameBot::update_data successfully get data from API, id: 36415140
+root:[INFO]:[2022-09-26 20:05:23,730] - GameBot::update_data delete event 36415140
+root:[INFO]:[2022-09-26 20:05:23,730] - delete game 36415140
+root:[INFO]:[2022-09-26 20:05:23,901] - GameBot::update_data successfully get data from API, id: 36412187
+root:[INFO]:[2022-09-26 20:05:23,902] - GameBot::update_data delete event 36412187
+root:[INFO]:[2022-09-26 20:05:23,902] - delete game 36412187
+root:[INFO]:[2022-09-26 20:05:23,902] - GameBot::update_data Check set: id 36412187, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:05:23,902] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:05:24,071] - GameBot::update_data successfully get data from API, id: 36412172
+root:[INFO]:[2022-09-26 20:05:24,072] - GameBot::update_data delete event 36412172
+root:[INFO]:[2022-09-26 20:05:24,072] - delete game 36412172
+root:[INFO]:[2022-09-26 20:05:24,255] - GameBot::update_data successfully get data from API, id: 36412164
+root:[INFO]:[2022-09-26 20:05:24,255] - GameBot::update_data delete event 36412164
+root:[INFO]:[2022-09-26 20:05:24,255] - delete game 36412164
+root:[INFO]:[2022-09-26 20:05:24,255] - GameBot::update_data delete event 36412164
+root:[INFO]:[2022-09-26 20:05:24,255] - delete game 36412164
+root:[INFO]:[2022-09-26 20:05:24,427] - GameBot::update_data successfully get data from API, id: 36415420
+root:[INFO]:[2022-09-26 20:05:24,427] - GameBot::update_data delete event 36415420
+root:[INFO]:[2022-09-26 20:05:24,427] - delete game 36415420
+root:[INFO]:[2022-09-26 20:05:24,428] - GameBot::update_data Check set: id 36415420, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:05:24,428] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:05:24,635] - GameBot::update_data successfully get data from API, id: 36415716
+root:[INFO]:[2022-09-26 20:05:24,635] - GameBot::update_data delete event 36415716
+root:[INFO]:[2022-09-26 20:05:24,635] - delete game 36415716
+root:[INFO]:[2022-09-26 20:05:24,635] - GameBot::update_data delete event 36415716
+root:[INFO]:[2022-09-26 20:05:24,635] - delete game 36415716
+root:[INFO]:[2022-09-26 20:05:25,487] - GameBot::update_data successfully get data from API, id: 36415678
+root:[INFO]:[2022-09-26 20:05:25,488] - GameBot::update_data delete event 36415678
+root:[INFO]:[2022-09-26 20:05:25,488] - delete game 36415678
+root:[INFO]:[2022-09-26 20:05:25,488] - GameBot::update_data Check set: id 36415678, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:05:25,488] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:05:25,656] - GameBot::update_data successfully get data from API, id: 36412153
+root:[INFO]:[2022-09-26 20:05:25,656] - GameBot::update_data delete event 36412153
+root:[INFO]:[2022-09-26 20:05:25,656] - delete game 36412153
+root:[INFO]:[2022-09-26 20:05:25,859] - GameBot::update_data successfully get data from API, id: 36412174
+root:[INFO]:[2022-09-26 20:05:25,859] - GameBot::update_data delete event 36412174
+root:[INFO]:[2022-09-26 20:05:25,859] - delete game 36412174
+root:[INFO]:[2022-09-26 20:05:26,068] - GameBot::update_data successfully get data from API, id: 36412154
+root:[INFO]:[2022-09-26 20:05:26,294] - GameBot::update_data successfully get data from API, id: 36412188
+root:[INFO]:[2022-09-26 20:05:26,294] - GameBot::update_data delete event 36412188
+root:[INFO]:[2022-09-26 20:05:26,294] - delete game 36412188
+root:[INFO]:[2022-09-26 20:05:26,294] - GameBot::update_data delete event 36412188
+root:[INFO]:[2022-09-26 20:05:26,294] - delete game 36412188
+root:[INFO]:[2022-09-26 20:05:27,456] - GameBot::update_data successfully get data from API, id: 36412185
+root:[INFO]:[2022-09-26 20:05:27,457] - GameBot::update_data delete event 36412185
+root:[INFO]:[2022-09-26 20:05:27,457] - delete game 36412185
+root:[INFO]:[2022-09-26 20:05:28,147] - GameBot::update_data successfully get data from API, id: 36228294
+root:[INFO]:[2022-09-26 20:05:28,147] - GameBot::update_data delete event 36228294
+root:[INFO]:[2022-09-26 20:05:28,147] - delete game 36228294
+root:[INFO]:[2022-09-26 20:05:28,297] - GameBot::update_data successfully get data from API, id: 36228296
+root:[INFO]:[2022-09-26 20:05:28,297] - GameBot::update_data delete event 36228296
+root:[INFO]:[2022-09-26 20:05:28,297] - delete game 36228296
+root:[INFO]:[2022-09-26 20:05:28,453] - GameBot::update_data successfully get data from API, id: 36228295
+root:[INFO]:[2022-09-26 20:05:28,454] - GameBot::update_data delete event 36228295
+root:[INFO]:[2022-09-26 20:05:28,454] - delete game 36228295
+root:[INFO]:[2022-09-26 20:05:28,621] - GameBot::update_data successfully get data from API, id: 36228298
+root:[INFO]:[2022-09-26 20:05:28,621] - GameBot::update_data delete event 36228298
+root:[INFO]:[2022-09-26 20:05:28,621] - delete game 36228298
+root:[INFO]:[2022-09-26 20:05:28,790] - GameBot::update_data successfully get data from API, id: 36228297
+root:[INFO]:[2022-09-26 20:05:28,790] - GameBot::update_data delete event 36228297
+root:[INFO]:[2022-09-26 20:05:28,790] - delete game 36228297
+root:[INFO]:[2022-09-26 20:05:28,932] - GameBot::update_data successfully get data from API, id: 36228299
+root:[INFO]:[2022-09-26 20:05:28,932] - GameBot::update_data delete event 36228299
+root:[INFO]:[2022-09-26 20:05:28,933] - delete game 36228299
+root:[INFO]:[2022-09-26 20:05:28,933] - GameBot::get_info call 36401242
+root:[INFO]:[2022-09-26 20:05:28,933] - GameBot::get_info call 36396431
+root:[INFO]:[2022-09-26 20:05:28,933] - GameBot::get_info call 36401241
+root:[INFO]:[2022-09-26 20:05:28,933] - GameBot::get_info call 36401243
+root:[INFO]:[2022-09-26 20:05:28,933] - GameBot::get_info call 36396410
+root:[INFO]:[2022-09-26 20:05:28,933] - GameBot::get_info call 36401244
+root:[INFO]:[2022-09-26 20:05:28,933] - GameBot::get_info call 36396380
+root:[INFO]:[2022-09-26 20:05:28,933] - GameBot::get_info call 36401246
+root:[INFO]:[2022-09-26 20:05:28,933] - GameBot::get_info call 36401247
+root:[INFO]:[2022-09-26 20:05:28,933] - GameBot::get_info call 36407486
+root:[INFO]:[2022-09-26 20:05:28,933] - GameBot::get_info call 36407484
+root:[INFO]:[2022-09-26 20:05:28,933] - GameBot::get_info call 36412159
+root:[INFO]:[2022-09-26 20:05:28,933] - GameBot::get_info call 36412168
+root:[INFO]:[2022-09-26 20:05:28,933] - GameBot::get_info call 36412169
+root:[INFO]:[2022-09-26 20:05:28,933] - GameBot::get_info call 36412175
+root:[INFO]:[2022-09-26 20:05:28,933] - GameBot::get_info call 36412178
+root:[INFO]:[2022-09-26 20:05:28,933] - GameBot::get_info call 36412179
+root:[INFO]:[2022-09-26 20:05:28,933] - GameBot::get_info call 36412186
+root:[INFO]:[2022-09-26 20:05:28,933] - GameBot::get_info call 36412173
+root:[INFO]:[2022-09-26 20:05:28,933] - GameBot::get_info call 36412171
+root:[INFO]:[2022-09-26 20:05:28,934] - GameBot::get_info call 36415140
+root:[INFO]:[2022-09-26 20:05:28,934] - GameBot::get_info call 36412187
+root:[INFO]:[2022-09-26 20:05:28,934] - GameBot::get_info call 36412172
+root:[INFO]:[2022-09-26 20:05:28,934] - GameBot::get_info call 36412164
+root:[INFO]:[2022-09-26 20:05:28,934] - GameBot::get_info call 36415420
+root:[INFO]:[2022-09-26 20:05:28,934] - GameBot::get_info call 36415716
+root:[INFO]:[2022-09-26 20:05:28,934] - GameBot::get_info call 36415678
+root:[INFO]:[2022-09-26 20:05:28,934] - GameBot::get_info call 36412153
+root:[INFO]:[2022-09-26 20:05:28,934] - GameBot::get_info call 36412174
+root:[INFO]:[2022-09-26 20:05:28,934] - GameBot::get_info call 36412154
+root:[INFO]:[2022-09-26 20:05:28,934] - GameBot::get_info call 36412188
+root:[INFO]:[2022-09-26 20:05:28,934] - GameBot::get_info call 36412185
+root:[INFO]:[2022-09-26 20:05:28,934] - GameBot::get_info call 36228294
+root:[INFO]:[2022-09-26 20:05:28,934] - GameBot::get_info call 36228296
+root:[INFO]:[2022-09-26 20:05:28,934] - GameBot::get_info call 36228295
+root:[INFO]:[2022-09-26 20:05:28,934] - GameBot::get_info call 36228298
+root:[INFO]:[2022-09-26 20:05:28,934] - GameBot::get_info call 36228297
+root:[INFO]:[2022-09-26 20:05:28,934] - GameBot::get_info call 36228299
+root:[INFO]:[2022-09-26 20:06:33,026] - Range main list: 38
+root:[INFO]:[2022-09-26 20:06:33,191] - GameBot::update_data successfully get data from API, id: 36401242
+root:[INFO]:[2022-09-26 20:06:33,191] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:06:33,191] - delete game 36401242
+root:[INFO]:[2022-09-26 20:06:33,191] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:06:33,191] - delete game 36401242
+root:[INFO]:[2022-09-26 20:06:33,191] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:06:33,191] - delete game 36401242
+root:[INFO]:[2022-09-26 20:06:33,191] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:06:33,191] - delete game 36401242
+root:[INFO]:[2022-09-26 20:06:33,192] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:06:33,192] - delete game 36401242
+root:[INFO]:[2022-09-26 20:06:33,192] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:06:33,192] - delete game 36401242
+root:[INFO]:[2022-09-26 20:06:33,192] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:06:33,192] - delete game 36401242
+root:[INFO]:[2022-09-26 20:06:33,192] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:06:33,192] - delete game 36401242
+root:[INFO]:[2022-09-26 20:06:33,341] - GameBot::update_data successfully get data from API, id: 36396431
+root:[INFO]:[2022-09-26 20:06:33,342] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:06:33,342] - delete game 36396431
+root:[INFO]:[2022-09-26 20:06:33,342] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:06:33,342] - delete game 36396431
+root:[INFO]:[2022-09-26 20:06:33,342] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:06:33,342] - delete game 36396431
+root:[INFO]:[2022-09-26 20:06:33,342] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:06:33,342] - delete game 36396431
+root:[INFO]:[2022-09-26 20:06:33,342] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:06:33,342] - delete game 36396431
+root:[INFO]:[2022-09-26 20:06:33,342] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:06:33,342] - delete game 36396431
+root:[INFO]:[2022-09-26 20:06:33,342] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:06:33,343] - delete game 36396431
+root:[INFO]:[2022-09-26 20:06:33,343] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:06:33,343] - delete game 36396431
+root:[INFO]:[2022-09-26 20:06:33,343] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:06:33,343] - delete game 36396431
+root:[INFO]:[2022-09-26 20:06:33,495] - GameBot::update_data successfully get data from API, id: 36401241
+root:[INFO]:[2022-09-26 20:06:33,495] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:06:33,495] - delete game 36401241
+root:[INFO]:[2022-09-26 20:06:33,495] - GameBot::update_data Check set: id 36401241, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:06:33,495] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:06:33,496] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:06:33,496] - delete game 36401241
+root:[INFO]:[2022-09-26 20:06:33,496] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:06:33,496] - delete game 36401241
+root:[INFO]:[2022-09-26 20:06:33,496] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:06:33,496] - delete game 36401241
+root:[INFO]:[2022-09-26 20:06:33,496] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:06:33,496] - delete game 36401241
+root:[INFO]:[2022-09-26 20:06:33,496] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:06:33,496] - delete game 36401241
+root:[INFO]:[2022-09-26 20:06:33,496] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:06:33,496] - delete game 36401241
+root:[INFO]:[2022-09-26 20:06:33,496] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:06:33,496] - delete game 36401241
+root:[INFO]:[2022-09-26 20:06:33,496] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:06:33,496] - delete game 36401241
+root:[INFO]:[2022-09-26 20:06:33,496] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:06:33,496] - delete game 36401241
+root:[INFO]:[2022-09-26 20:06:33,496] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:06:33,496] - delete game 36401241
+root:[INFO]:[2022-09-26 20:06:33,496] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:06:33,496] - delete game 36401241
+root:[INFO]:[2022-09-26 20:06:33,497] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:06:33,497] - delete game 36401241
+root:[INFO]:[2022-09-26 20:06:33,497] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:06:33,497] - delete game 36401241
+root:[INFO]:[2022-09-26 20:06:33,497] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:06:33,497] - delete game 36401241
+root:[INFO]:[2022-09-26 20:06:33,497] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:06:33,497] - delete game 36401241
+root:[INFO]:[2022-09-26 20:06:33,497] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:06:33,497] - delete game 36401241
+root:[INFO]:[2022-09-26 20:06:33,497] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:06:33,497] - delete game 36401241
+root:[INFO]:[2022-09-26 20:06:33,497] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:06:33,497] - delete game 36401241
+root:[INFO]:[2022-09-26 20:06:33,497] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:06:33,497] - delete game 36401241
+root:[INFO]:[2022-09-26 20:06:33,661] - GameBot::update_data successfully get data from API, id: 36401243
+root:[INFO]:[2022-09-26 20:06:33,661] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:06:33,661] - delete game 36401243
+root:[INFO]:[2022-09-26 20:06:33,661] - GameBot::update_data Check set: id 36401243, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:06:33,661] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:06:33,661] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:06:33,661] - delete game 36401243
+root:[INFO]:[2022-09-26 20:06:33,661] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:06:33,661] - delete game 36401243
+root:[INFO]:[2022-09-26 20:06:33,662] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:06:33,662] - delete game 36401243
+root:[INFO]:[2022-09-26 20:06:33,662] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:06:33,662] - delete game 36401243
+root:[INFO]:[2022-09-26 20:06:33,662] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:06:33,662] - delete game 36401243
+root:[INFO]:[2022-09-26 20:06:33,662] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:06:33,662] - delete game 36401243
+root:[INFO]:[2022-09-26 20:06:33,662] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:06:33,662] - delete game 36401243
+root:[INFO]:[2022-09-26 20:06:33,662] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:06:33,662] - delete game 36401243
+root:[INFO]:[2022-09-26 20:06:33,662] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:06:33,662] - delete game 36401243
+root:[INFO]:[2022-09-26 20:06:33,662] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:06:33,662] - delete game 36401243
+root:[INFO]:[2022-09-26 20:06:33,662] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:06:33,662] - delete game 36401243
+root:[INFO]:[2022-09-26 20:06:33,662] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:06:33,662] - delete game 36401243
+root:[INFO]:[2022-09-26 20:06:33,662] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:06:33,662] - delete game 36401243
+root:[INFO]:[2022-09-26 20:06:33,662] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:06:33,663] - delete game 36401243
+root:[INFO]:[2022-09-26 20:06:33,663] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:06:33,663] - delete game 36401243
+root:[INFO]:[2022-09-26 20:06:33,663] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:06:33,663] - delete game 36401243
+root:[INFO]:[2022-09-26 20:06:33,663] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:06:33,663] - delete game 36401243
+root:[INFO]:[2022-09-26 20:06:33,663] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:06:33,663] - delete game 36401243
+root:[INFO]:[2022-09-26 20:06:33,663] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:06:33,663] - delete game 36401243
+root:[INFO]:[2022-09-26 20:06:33,663] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:06:33,663] - delete game 36401243
+root:[INFO]:[2022-09-26 20:06:33,808] - GameBot::update_data successfully get data from API, id: 36396410
+root:[INFO]:[2022-09-26 20:06:33,808] - GameBot::update_data delete event 36396410
+root:[INFO]:[2022-09-26 20:06:33,808] - delete game 36396410
+root:[INFO]:[2022-09-26 20:06:33,808] - GameBot::update_data delete event 36396410
+root:[INFO]:[2022-09-26 20:06:33,808] - delete game 36396410
+root:[INFO]:[2022-09-26 20:06:33,953] - GameBot::update_data successfully get data from API, id: 36401244
+root:[INFO]:[2022-09-26 20:06:33,953] - GameBot::update_data delete event 36401244
+root:[INFO]:[2022-09-26 20:06:33,953] - delete game 36401244
+root:[INFO]:[2022-09-26 20:06:33,953] - GameBot::update_data delete event 36401244
+root:[INFO]:[2022-09-26 20:06:33,953] - delete game 36401244
+root:[INFO]:[2022-09-26 20:06:34,127] - GameBot::update_data successfully get data from API, id: 36396380
+root:[INFO]:[2022-09-26 20:06:34,127] - GameBot::update_data delete event 36396380
+root:[INFO]:[2022-09-26 20:06:34,127] - delete game 36396380
+root:[INFO]:[2022-09-26 20:06:34,128] - GameBot::update_data Check set: id 36396380, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:06:34,128] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:06:34,299] - GameBot::update_data successfully get data from API, id: 36401246
+root:[INFO]:[2022-09-26 20:06:34,299] - GameBot::update_data delete event 36401246
+root:[INFO]:[2022-09-26 20:06:34,299] - delete game 36401246
+root:[INFO]:[2022-09-26 20:06:34,299] - GameBot::update_data delete event 36401246
+root:[INFO]:[2022-09-26 20:06:34,299] - delete game 36401246
+root:[INFO]:[2022-09-26 20:06:34,474] - GameBot::update_data successfully get data from API, id: 36401247
+root:[INFO]:[2022-09-26 20:06:34,474] - GameBot::update_data delete event 36401247
+root:[INFO]:[2022-09-26 20:06:34,474] - delete game 36401247
+root:[INFO]:[2022-09-26 20:06:34,474] - GameBot::update_data Check set: id 36401247, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:06:34,474] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:06:34,652] - GameBot::update_data successfully get data from API, id: 36407486
+root:[INFO]:[2022-09-26 20:06:34,652] - GameBot::update_data delete event 36407486
+root:[INFO]:[2022-09-26 20:06:34,652] - delete game 36407486
+root:[INFO]:[2022-09-26 20:06:34,652] - GameBot::update_data delete event 36407486
+root:[INFO]:[2022-09-26 20:06:34,652] - delete game 36407486
+root:[INFO]:[2022-09-26 20:06:34,798] - GameBot::update_data successfully get data from API, id: 36407484
+root:[INFO]:[2022-09-26 20:06:34,798] - GameBot::update_data delete event 36407484
+root:[INFO]:[2022-09-26 20:06:34,798] - delete game 36407484
+root:[INFO]:[2022-09-26 20:06:34,798] - GameBot::update_data Check set: id 36407484, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:06:34,798] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:06:34,952] - GameBot::update_data successfully get data from API, id: 36412159
+root:[INFO]:[2022-09-26 20:06:34,952] - GameBot::update_data delete event 36412159
+root:[INFO]:[2022-09-26 20:06:34,952] - delete game 36412159
+root:[INFO]:[2022-09-26 20:06:34,952] - GameBot::update_data delete event 36412159
+root:[INFO]:[2022-09-26 20:06:34,952] - delete game 36412159
+root:[INFO]:[2022-09-26 20:06:34,952] - GameBot::update_data delete event 36412159
+root:[INFO]:[2022-09-26 20:06:34,952] - delete game 36412159
+root:[INFO]:[2022-09-26 20:06:35,099] - GameBot::update_data successfully get data from API, id: 36412168
+root:[INFO]:[2022-09-26 20:06:35,099] - GameBot::update_data delete event 36412168
+root:[INFO]:[2022-09-26 20:06:35,099] - delete game 36412168
+root:[INFO]:[2022-09-26 20:06:35,099] - GameBot::update_data Check set: id 36412168, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:06:35,099] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:06:35,254] - GameBot::update_data successfully get data from API, id: 36412169
+root:[INFO]:[2022-09-26 20:06:35,254] - GameBot::update_data delete event 36412169
+root:[INFO]:[2022-09-26 20:06:35,254] - delete game 36412169
+root:[INFO]:[2022-09-26 20:06:35,254] - GameBot::update_data Check set: id 36412169, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:06:35,254] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:06:35,426] - GameBot::update_data successfully get data from API, id: 36412175
+root:[INFO]:[2022-09-26 20:06:35,426] - GameBot::update_data delete event 36412175
+root:[INFO]:[2022-09-26 20:06:35,426] - delete game 36412175
+root:[INFO]:[2022-09-26 20:06:35,426] - GameBot::update_data Check set: id 36412175, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:06:35,426] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:06:35,579] - GameBot::update_data successfully get data from API, id: 36412178
+root:[INFO]:[2022-09-26 20:06:35,580] - GameBot::update_data delete event 36412178
+root:[INFO]:[2022-09-26 20:06:35,580] - delete game 36412178
+root:[INFO]:[2022-09-26 20:06:35,580] - GameBot::update_data Check set: id 36412178, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:06:35,580] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:06:35,721] - GameBot::update_data successfully get data from API, id: 36412179
+root:[INFO]:[2022-09-26 20:06:35,721] - GameBot::update_data delete event 36412179
+root:[INFO]:[2022-09-26 20:06:35,721] - delete game 36412179
+root:[INFO]:[2022-09-26 20:06:35,721] - GameBot::update_data Check set: id 36412179, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:06:35,721] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:06:35,868] - GameBot::update_data successfully get data from API, id: 36412186
+root:[INFO]:[2022-09-26 20:06:35,868] - GameBot::update_data delete event 36412186
+root:[INFO]:[2022-09-26 20:06:35,868] - delete game 36412186
+root:[INFO]:[2022-09-26 20:06:35,868] - GameBot::update_data Check set: id 36412186, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:06:35,868] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:06:36,016] - GameBot::update_data successfully get data from API, id: 36412173
+root:[INFO]:[2022-09-26 20:06:36,016] - GameBot::update_data delete event 36412173
+root:[INFO]:[2022-09-26 20:06:36,016] - delete game 36412173
+root:[INFO]:[2022-09-26 20:06:36,165] - GameBot::update_data successfully get data from API, id: 36412171
+root:[INFO]:[2022-09-26 20:06:36,165] - GameBot::update_data delete event 36412171
+root:[INFO]:[2022-09-26 20:06:36,165] - delete game 36412171
+root:[INFO]:[2022-09-26 20:06:36,316] - GameBot::update_data successfully get data from API, id: 36415140
+root:[INFO]:[2022-09-26 20:06:36,316] - GameBot::update_data delete event 36415140
+root:[INFO]:[2022-09-26 20:06:36,317] - delete game 36415140
+root:[INFO]:[2022-09-26 20:06:36,458] - GameBot::update_data successfully get data from API, id: 36412187
+root:[INFO]:[2022-09-26 20:06:36,458] - GameBot::update_data delete event 36412187
+root:[INFO]:[2022-09-26 20:06:36,458] - delete game 36412187
+root:[INFO]:[2022-09-26 20:06:36,458] - GameBot::update_data Check set: id 36412187, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:06:36,458] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:06:36,596] - GameBot::update_data successfully get data from API, id: 36412172
+root:[INFO]:[2022-09-26 20:06:36,596] - GameBot::update_data delete event 36412172
+root:[INFO]:[2022-09-26 20:06:36,596] - delete game 36412172
+root:[INFO]:[2022-09-26 20:06:37,248] - GameBot::update_data successfully get data from API, id: 36412164
+root:[INFO]:[2022-09-26 20:06:37,248] - GameBot::update_data delete event 36412164
+root:[INFO]:[2022-09-26 20:06:37,248] - delete game 36412164
+root:[INFO]:[2022-09-26 20:06:37,248] - GameBot::update_data delete event 36412164
+root:[INFO]:[2022-09-26 20:06:37,248] - delete game 36412164
+root:[INFO]:[2022-09-26 20:06:37,408] - GameBot::update_data successfully get data from API, id: 36415420
+root:[INFO]:[2022-09-26 20:06:37,408] - GameBot::update_data delete event 36415420
+root:[INFO]:[2022-09-26 20:06:37,408] - delete game 36415420
+root:[INFO]:[2022-09-26 20:06:37,408] - GameBot::update_data Check set: id 36415420, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:06:37,409] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:06:37,677] - GameBot::update_data successfully get data from API, id: 36415716
+root:[INFO]:[2022-09-26 20:06:37,677] - GameBot::update_data delete event 36415716
+root:[INFO]:[2022-09-26 20:06:37,677] - delete game 36415716
+root:[INFO]:[2022-09-26 20:06:37,677] - GameBot::update_data delete event 36415716
+root:[INFO]:[2022-09-26 20:06:37,677] - delete game 36415716
+root:[INFO]:[2022-09-26 20:06:37,845] - GameBot::update_data successfully get data from API, id: 36415678
+root:[INFO]:[2022-09-26 20:06:37,845] - GameBot::update_data delete event 36415678
+root:[INFO]:[2022-09-26 20:06:37,845] - delete game 36415678
+root:[INFO]:[2022-09-26 20:06:37,845] - GameBot::update_data Check set: id 36415678, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:06:37,845] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:06:38,246] - GameBot::update_data successfully get data from API, id: 36412153
+root:[INFO]:[2022-09-26 20:06:38,246] - GameBot::update_data delete event 36412153
+root:[INFO]:[2022-09-26 20:06:38,246] - delete game 36412153
+root:[INFO]:[2022-09-26 20:06:38,528] - GameBot::update_data successfully get data from API, id: 36412174
+root:[INFO]:[2022-09-26 20:06:38,528] - GameBot::update_data delete event 36412174
+root:[INFO]:[2022-09-26 20:06:38,528] - delete game 36412174
+root:[INFO]:[2022-09-26 20:06:38,748] - GameBot::update_data successfully get data from API, id: 36412154
+root:[INFO]:[2022-09-26 20:06:38,906] - GameBot::update_data successfully get data from API, id: 36412188
+root:[INFO]:[2022-09-26 20:06:38,906] - GameBot::update_data delete event 36412188
+root:[INFO]:[2022-09-26 20:06:38,906] - delete game 36412188
+root:[INFO]:[2022-09-26 20:06:38,906] - GameBot::update_data delete event 36412188
+root:[INFO]:[2022-09-26 20:06:38,906] - delete game 36412188
+root:[INFO]:[2022-09-26 20:06:39,088] - GameBot::update_data successfully get data from API, id: 36412185
+root:[INFO]:[2022-09-26 20:06:39,088] - GameBot::update_data delete event 36412185
+root:[INFO]:[2022-09-26 20:06:39,088] - delete game 36412185
+root:[INFO]:[2022-09-26 20:06:39,255] - GameBot::update_data successfully get data from API, id: 36228294
+root:[INFO]:[2022-09-26 20:06:39,255] - GameBot::update_data delete event 36228294
+root:[INFO]:[2022-09-26 20:06:39,255] - delete game 36228294
+root:[INFO]:[2022-09-26 20:06:39,563] - GameBot::update_data successfully get data from API, id: 36228296
+root:[INFO]:[2022-09-26 20:06:39,563] - GameBot::update_data delete event 36228296
+root:[INFO]:[2022-09-26 20:06:39,563] - delete game 36228296
+root:[INFO]:[2022-09-26 20:06:39,772] - GameBot::update_data successfully get data from API, id: 36228295
+root:[INFO]:[2022-09-26 20:06:39,772] - GameBot::update_data delete event 36228295
+root:[INFO]:[2022-09-26 20:06:39,772] - delete game 36228295
+root:[INFO]:[2022-09-26 20:06:39,944] - GameBot::update_data successfully get data from API, id: 36228298
+root:[INFO]:[2022-09-26 20:06:39,944] - GameBot::update_data delete event 36228298
+root:[INFO]:[2022-09-26 20:06:39,944] - delete game 36228298
+root:[INFO]:[2022-09-26 20:06:40,199] - GameBot::update_data successfully get data from API, id: 36228297
+root:[INFO]:[2022-09-26 20:06:40,199] - GameBot::update_data delete event 36228297
+root:[INFO]:[2022-09-26 20:06:40,199] - delete game 36228297
+root:[INFO]:[2022-09-26 20:06:40,383] - GameBot::update_data successfully get data from API, id: 36228299
+root:[INFO]:[2022-09-26 20:06:40,383] - GameBot::update_data delete event 36228299
+root:[INFO]:[2022-09-26 20:06:40,383] - delete game 36228299
+root:[INFO]:[2022-09-26 20:06:40,383] - GameBot::get_info call 36401242
+root:[INFO]:[2022-09-26 20:06:40,383] - GameBot::get_info call 36396431
+root:[INFO]:[2022-09-26 20:06:40,383] - GameBot::get_info call 36401241
+root:[INFO]:[2022-09-26 20:06:40,383] - GameBot::get_info call 36401243
+root:[INFO]:[2022-09-26 20:06:40,383] - GameBot::get_info call 36396410
+root:[INFO]:[2022-09-26 20:06:40,383] - GameBot::get_info call 36401244
+root:[INFO]:[2022-09-26 20:06:40,383] - GameBot::get_info call 36396380
+root:[INFO]:[2022-09-26 20:06:40,384] - GameBot::get_info call 36401246
+root:[INFO]:[2022-09-26 20:06:40,384] - GameBot::get_info call 36401247
+root:[INFO]:[2022-09-26 20:06:40,384] - GameBot::get_info call 36407486
+root:[INFO]:[2022-09-26 20:06:40,384] - GameBot::get_info call 36407484
+root:[INFO]:[2022-09-26 20:06:40,384] - GameBot::get_info call 36412159
+root:[INFO]:[2022-09-26 20:06:40,384] - GameBot::get_info call 36412168
+root:[INFO]:[2022-09-26 20:06:40,384] - GameBot::get_info call 36412169
+root:[INFO]:[2022-09-26 20:06:40,384] - GameBot::get_info call 36412175
+root:[INFO]:[2022-09-26 20:06:40,384] - GameBot::get_info call 36412178
+root:[INFO]:[2022-09-26 20:06:40,384] - GameBot::get_info call 36412179
+root:[INFO]:[2022-09-26 20:06:40,384] - GameBot::get_info call 36412186
+root:[INFO]:[2022-09-26 20:06:40,384] - GameBot::get_info call 36412173
+root:[INFO]:[2022-09-26 20:06:40,384] - GameBot::get_info call 36412171
+root:[INFO]:[2022-09-26 20:06:40,384] - GameBot::get_info call 36415140
+root:[INFO]:[2022-09-26 20:06:40,384] - GameBot::get_info call 36412187
+root:[INFO]:[2022-09-26 20:06:40,384] - GameBot::get_info call 36412172
+root:[INFO]:[2022-09-26 20:06:40,384] - GameBot::get_info call 36412164
+root:[INFO]:[2022-09-26 20:06:40,384] - GameBot::get_info call 36415420
+root:[INFO]:[2022-09-26 20:06:40,384] - GameBot::get_info call 36415716
+root:[INFO]:[2022-09-26 20:06:40,384] - GameBot::get_info call 36415678
+root:[INFO]:[2022-09-26 20:06:40,384] - GameBot::get_info call 36412153
+root:[INFO]:[2022-09-26 20:06:40,384] - GameBot::get_info call 36412174
+root:[INFO]:[2022-09-26 20:06:40,384] - GameBot::get_info call 36412154
+root:[INFO]:[2022-09-26 20:06:40,385] - GameBot::get_info call 36412188
+root:[INFO]:[2022-09-26 20:06:40,385] - GameBot::get_info call 36412185
+root:[INFO]:[2022-09-26 20:06:40,385] - GameBot::get_info call 36228294
+root:[INFO]:[2022-09-26 20:06:40,385] - GameBot::get_info call 36228296
+root:[INFO]:[2022-09-26 20:06:40,385] - GameBot::get_info call 36228295
+root:[INFO]:[2022-09-26 20:06:40,385] - GameBot::get_info call 36228298
+root:[INFO]:[2022-09-26 20:06:40,385] - GameBot::get_info call 36228297
+root:[INFO]:[2022-09-26 20:06:40,385] - GameBot::get_info call 36228299
+root:[INFO]:[2022-09-26 20:07:41,325] - Range main list: 38
+root:[INFO]:[2022-09-26 20:07:41,458] - GameBot::update_data successfully get data from API, id: 36401242
+root:[INFO]:[2022-09-26 20:07:41,458] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:07:41,458] - delete game 36401242
+root:[INFO]:[2022-09-26 20:07:41,458] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:07:41,458] - delete game 36401242
+root:[INFO]:[2022-09-26 20:07:41,458] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:07:41,458] - delete game 36401242
+root:[INFO]:[2022-09-26 20:07:41,458] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:07:41,458] - delete game 36401242
+root:[INFO]:[2022-09-26 20:07:41,458] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:07:41,458] - delete game 36401242
+root:[INFO]:[2022-09-26 20:07:41,458] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:07:41,458] - delete game 36401242
+root:[INFO]:[2022-09-26 20:07:41,458] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:07:41,458] - delete game 36401242
+root:[INFO]:[2022-09-26 20:07:41,458] - GameBot::update_data delete event 36401242
+root:[INFO]:[2022-09-26 20:07:41,458] - delete game 36401242
+root:[INFO]:[2022-09-26 20:07:41,597] - GameBot::update_data successfully get data from API, id: 36396431
+root:[INFO]:[2022-09-26 20:07:41,597] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:07:41,598] - delete game 36396431
+root:[INFO]:[2022-09-26 20:07:41,598] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:07:41,598] - delete game 36396431
+root:[INFO]:[2022-09-26 20:07:41,598] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:07:41,598] - delete game 36396431
+root:[INFO]:[2022-09-26 20:07:41,598] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:07:41,598] - delete game 36396431
+root:[INFO]:[2022-09-26 20:07:41,598] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:07:41,598] - delete game 36396431
+root:[INFO]:[2022-09-26 20:07:41,598] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:07:41,598] - delete game 36396431
+root:[INFO]:[2022-09-26 20:07:41,598] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:07:41,598] - delete game 36396431
+root:[INFO]:[2022-09-26 20:07:41,598] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:07:41,598] - delete game 36396431
+root:[INFO]:[2022-09-26 20:07:41,598] - GameBot::update_data delete event 36396431
+root:[INFO]:[2022-09-26 20:07:41,598] - delete game 36396431
+root:[INFO]:[2022-09-26 20:07:41,786] - GameBot::update_data successfully get data from API, id: 36401241
+root:[INFO]:[2022-09-26 20:07:41,786] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:07:41,786] - delete game 36401241
+root:[INFO]:[2022-09-26 20:07:41,786] - GameBot::update_data Check set: id 36401241, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:07:41,786] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:07:41,786] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:07:41,786] - delete game 36401241
+root:[INFO]:[2022-09-26 20:07:41,787] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:07:41,787] - delete game 36401241
+root:[INFO]:[2022-09-26 20:07:41,787] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:07:41,787] - delete game 36401241
+root:[INFO]:[2022-09-26 20:07:41,787] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:07:41,787] - delete game 36401241
+root:[INFO]:[2022-09-26 20:07:41,787] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:07:41,787] - delete game 36401241
+root:[INFO]:[2022-09-26 20:07:41,787] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:07:41,787] - delete game 36401241
+root:[INFO]:[2022-09-26 20:07:41,787] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:07:41,787] - delete game 36401241
+root:[INFO]:[2022-09-26 20:07:41,787] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:07:41,787] - delete game 36401241
+root:[INFO]:[2022-09-26 20:07:41,787] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:07:41,787] - delete game 36401241
+root:[INFO]:[2022-09-26 20:07:41,787] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:07:41,787] - delete game 36401241
+root:[INFO]:[2022-09-26 20:07:41,787] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:07:41,788] - delete game 36401241
+root:[INFO]:[2022-09-26 20:07:41,788] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:07:41,788] - delete game 36401241
+root:[INFO]:[2022-09-26 20:07:41,788] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:07:41,788] - delete game 36401241
+root:[INFO]:[2022-09-26 20:07:41,788] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:07:41,788] - delete game 36401241
+root:[INFO]:[2022-09-26 20:07:41,788] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:07:41,788] - delete game 36401241
+root:[INFO]:[2022-09-26 20:07:41,788] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:07:41,788] - delete game 36401241
+root:[INFO]:[2022-09-26 20:07:41,788] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:07:41,788] - delete game 36401241
+root:[INFO]:[2022-09-26 20:07:41,788] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:07:41,788] - delete game 36401241
+root:[INFO]:[2022-09-26 20:07:41,788] - GameBot::update_data delete event 36401241
+root:[INFO]:[2022-09-26 20:07:41,788] - delete game 36401241
+root:[INFO]:[2022-09-26 20:07:41,936] - GameBot::update_data successfully get data from API, id: 36401243
+root:[INFO]:[2022-09-26 20:07:41,936] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:07:41,936] - delete game 36401243
+root:[INFO]:[2022-09-26 20:07:41,936] - GameBot::update_data Check set: id 36401243, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:07:41,937] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:07:41,937] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:07:41,937] - delete game 36401243
+root:[INFO]:[2022-09-26 20:07:41,937] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:07:41,937] - delete game 36401243
+root:[INFO]:[2022-09-26 20:07:41,937] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:07:41,937] - delete game 36401243
+root:[INFO]:[2022-09-26 20:07:41,937] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:07:41,937] - delete game 36401243
+root:[INFO]:[2022-09-26 20:07:41,937] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:07:41,937] - delete game 36401243
+root:[INFO]:[2022-09-26 20:07:41,938] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:07:41,938] - delete game 36401243
+root:[INFO]:[2022-09-26 20:07:41,938] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:07:41,938] - delete game 36401243
+root:[INFO]:[2022-09-26 20:07:41,938] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:07:41,938] - delete game 36401243
+root:[INFO]:[2022-09-26 20:07:41,938] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:07:41,938] - delete game 36401243
+root:[INFO]:[2022-09-26 20:07:41,938] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:07:41,938] - delete game 36401243
+root:[INFO]:[2022-09-26 20:07:41,938] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:07:41,938] - delete game 36401243
+root:[INFO]:[2022-09-26 20:07:41,938] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:07:41,938] - delete game 36401243
+root:[INFO]:[2022-09-26 20:07:41,938] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:07:41,938] - delete game 36401243
+root:[INFO]:[2022-09-26 20:07:41,938] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:07:41,938] - delete game 36401243
+root:[INFO]:[2022-09-26 20:07:41,938] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:07:41,939] - delete game 36401243
+root:[INFO]:[2022-09-26 20:07:41,939] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:07:41,939] - delete game 36401243
+root:[INFO]:[2022-09-26 20:07:41,939] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:07:41,939] - delete game 36401243
+root:[INFO]:[2022-09-26 20:07:41,939] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:07:41,939] - delete game 36401243
+root:[INFO]:[2022-09-26 20:07:41,939] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:07:41,939] - delete game 36401243
+root:[INFO]:[2022-09-26 20:07:41,939] - GameBot::update_data delete event 36401243
+root:[INFO]:[2022-09-26 20:07:41,939] - delete game 36401243
+root:[INFO]:[2022-09-26 20:07:42,100] - GameBot::update_data successfully get data from API, id: 36396410
+root:[INFO]:[2022-09-26 20:07:42,100] - GameBot::update_data delete event 36396410
+root:[INFO]:[2022-09-26 20:07:42,100] - delete game 36396410
+root:[INFO]:[2022-09-26 20:07:42,100] - GameBot::update_data delete event 36396410
+root:[INFO]:[2022-09-26 20:07:42,100] - delete game 36396410
+root:[INFO]:[2022-09-26 20:07:42,246] - GameBot::update_data successfully get data from API, id: 36401244
+root:[INFO]:[2022-09-26 20:07:42,246] - GameBot::update_data delete event 36401244
+root:[INFO]:[2022-09-26 20:07:42,246] - delete game 36401244
+root:[INFO]:[2022-09-26 20:07:42,246] - GameBot::update_data delete event 36401244
+root:[INFO]:[2022-09-26 20:07:42,246] - delete game 36401244
+root:[INFO]:[2022-09-26 20:07:42,398] - GameBot::update_data successfully get data from API, id: 36396380
+root:[INFO]:[2022-09-26 20:07:42,398] - GameBot::update_data delete event 36396380
+root:[INFO]:[2022-09-26 20:07:42,398] - delete game 36396380
+root:[INFO]:[2022-09-26 20:07:42,398] - GameBot::update_data Check set: id 36396380, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:07:42,398] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:07:42,560] - GameBot::update_data successfully get data from API, id: 36401246
+root:[INFO]:[2022-09-26 20:07:42,561] - GameBot::update_data delete event 36401246
+root:[INFO]:[2022-09-26 20:07:42,561] - delete game 36401246
+root:[INFO]:[2022-09-26 20:07:42,561] - GameBot::update_data delete event 36401246
+root:[INFO]:[2022-09-26 20:07:42,561] - delete game 36401246
+root:[INFO]:[2022-09-26 20:07:42,709] - GameBot::update_data successfully get data from API, id: 36401247
+root:[INFO]:[2022-09-26 20:07:42,710] - GameBot::update_data delete event 36401247
+root:[INFO]:[2022-09-26 20:07:42,710] - delete game 36401247
+root:[INFO]:[2022-09-26 20:07:42,710] - GameBot::update_data Check set: id 36401247, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:07:42,710] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:07:42,872] - GameBot::update_data successfully get data from API, id: 36407486
+root:[INFO]:[2022-09-26 20:07:42,887] - GameBot::update_data delete event 36407486
+root:[INFO]:[2022-09-26 20:07:42,887] - delete game 36407486
+root:[INFO]:[2022-09-26 20:07:42,887] - GameBot::update_data delete event 36407486
+root:[INFO]:[2022-09-26 20:07:42,887] - delete game 36407486
+root:[INFO]:[2022-09-26 20:07:43,047] - GameBot::update_data successfully get data from API, id: 36407484
+root:[INFO]:[2022-09-26 20:07:43,047] - GameBot::update_data delete event 36407484
+root:[INFO]:[2022-09-26 20:07:43,047] - delete game 36407484
+root:[INFO]:[2022-09-26 20:07:43,047] - GameBot::update_data Check set: id 36407484, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:07:43,047] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:07:43,205] - GameBot::update_data successfully get data from API, id: 36412159
+root:[INFO]:[2022-09-26 20:07:43,205] - GameBot::update_data delete event 36412159
+root:[INFO]:[2022-09-26 20:07:43,205] - delete game 36412159
+root:[INFO]:[2022-09-26 20:07:43,205] - GameBot::update_data delete event 36412159
+root:[INFO]:[2022-09-26 20:07:43,205] - delete game 36412159
+root:[INFO]:[2022-09-26 20:07:43,205] - GameBot::update_data delete event 36412159
+root:[INFO]:[2022-09-26 20:07:43,206] - delete game 36412159
+root:[INFO]:[2022-09-26 20:07:43,379] - GameBot::update_data successfully get data from API, id: 36412168
+root:[INFO]:[2022-09-26 20:07:43,379] - GameBot::update_data delete event 36412168
+root:[INFO]:[2022-09-26 20:07:43,379] - delete game 36412168
+root:[INFO]:[2022-09-26 20:07:43,379] - GameBot::update_data Check set: id 36412168, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:07:43,379] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:07:43,539] - GameBot::update_data successfully get data from API, id: 36412169
+root:[INFO]:[2022-09-26 20:07:43,539] - GameBot::update_data delete event 36412169
+root:[INFO]:[2022-09-26 20:07:43,539] - delete game 36412169
+root:[INFO]:[2022-09-26 20:07:43,539] - GameBot::update_data Check set: id 36412169, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:07:43,539] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:07:43,718] - GameBot::update_data successfully get data from API, id: 36412175
+root:[INFO]:[2022-09-26 20:07:43,718] - GameBot::update_data delete event 36412175
+root:[INFO]:[2022-09-26 20:07:43,719] - delete game 36412175
+root:[INFO]:[2022-09-26 20:07:43,719] - GameBot::update_data Check set: id 36412175, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:07:43,719] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:07:43,874] - GameBot::update_data successfully get data from API, id: 36412178
+root:[INFO]:[2022-09-26 20:07:43,874] - GameBot::update_data delete event 36412178
+root:[INFO]:[2022-09-26 20:07:43,875] - delete game 36412178
+root:[INFO]:[2022-09-26 20:07:43,875] - GameBot::update_data Check set: id 36412178, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:07:43,875] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:07:44,045] - GameBot::update_data successfully get data from API, id: 36412179
+root:[INFO]:[2022-09-26 20:07:44,046] - GameBot::update_data delete event 36412179
+root:[INFO]:[2022-09-26 20:07:44,046] - delete game 36412179
+root:[INFO]:[2022-09-26 20:07:44,046] - GameBot::update_data Check set: id 36412179, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:07:44,046] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:07:44,192] - GameBot::update_data successfully get data from API, id: 36412186
+root:[INFO]:[2022-09-26 20:07:44,192] - GameBot::update_data delete event 36412186
+root:[INFO]:[2022-09-26 20:07:44,192] - delete game 36412186
+root:[INFO]:[2022-09-26 20:07:44,192] - GameBot::update_data Check set: id 36412186, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:07:44,192] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:07:44,343] - GameBot::update_data successfully get data from API, id: 36412173
+root:[INFO]:[2022-09-26 20:07:44,344] - GameBot::update_data delete event 36412173
+root:[INFO]:[2022-09-26 20:07:44,344] - delete game 36412173
+root:[INFO]:[2022-09-26 20:07:44,480] - GameBot::update_data successfully get data from API, id: 36412171
+root:[INFO]:[2022-09-26 20:07:44,481] - GameBot::update_data delete event 36412171
+root:[INFO]:[2022-09-26 20:07:44,481] - delete game 36412171
+root:[INFO]:[2022-09-26 20:07:44,673] - GameBot::update_data successfully get data from API, id: 36415140
+root:[INFO]:[2022-09-26 20:07:44,673] - GameBot::update_data delete event 36415140
+root:[INFO]:[2022-09-26 20:07:44,673] - delete game 36415140
+root:[INFO]:[2022-09-26 20:07:44,829] - GameBot::update_data successfully get data from API, id: 36412187
+root:[INFO]:[2022-09-26 20:07:44,830] - GameBot::update_data delete event 36412187
+root:[INFO]:[2022-09-26 20:07:44,830] - delete game 36412187
+root:[INFO]:[2022-09-26 20:07:44,830] - GameBot::update_data Check set: id 36412187, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:07:44,830] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:07:44,976] - GameBot::update_data successfully get data from API, id: 36412172
+root:[INFO]:[2022-09-26 20:07:44,976] - GameBot::update_data delete event 36412172
+root:[INFO]:[2022-09-26 20:07:44,976] - delete game 36412172
+root:[INFO]:[2022-09-26 20:07:45,117] - GameBot::update_data successfully get data from API, id: 36412164
+root:[INFO]:[2022-09-26 20:07:45,118] - GameBot::update_data delete event 36412164
+root:[INFO]:[2022-09-26 20:07:45,118] - delete game 36412164
+root:[INFO]:[2022-09-26 20:07:45,118] - GameBot::update_data delete event 36412164
+root:[INFO]:[2022-09-26 20:07:45,118] - delete game 36412164
+root:[INFO]:[2022-09-26 20:07:45,273] - GameBot::update_data successfully get data from API, id: 36415420
+root:[INFO]:[2022-09-26 20:07:45,273] - GameBot::update_data delete event 36415420
+root:[INFO]:[2022-09-26 20:07:45,273] - delete game 36415420
+root:[INFO]:[2022-09-26 20:07:45,273] - GameBot::update_data Check set: id 36415420, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:07:45,273] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:07:45,416] - GameBot::update_data successfully get data from API, id: 36415716
+root:[INFO]:[2022-09-26 20:07:45,417] - GameBot::update_data delete event 36415716
+root:[INFO]:[2022-09-26 20:07:45,417] - delete game 36415716
+root:[INFO]:[2022-09-26 20:07:45,417] - GameBot::update_data delete event 36415716
+root:[INFO]:[2022-09-26 20:07:45,417] - delete game 36415716
+root:[INFO]:[2022-09-26 20:07:45,563] - GameBot::update_data successfully get data from API, id: 36415678
+root:[INFO]:[2022-09-26 20:07:45,563] - GameBot::update_data delete event 36415678
+root:[INFO]:[2022-09-26 20:07:45,563] - delete game 36415678
+root:[INFO]:[2022-09-26 20:07:45,563] - GameBot::update_data Check set: id 36415678, param name in json 1-й сет
+root:[INFO]:[2022-09-26 20:07:45,563] - GameBot::update_data Set is 1
+root:[INFO]:[2022-09-26 20:07:45,720] - GameBot::update_data successfully get data from API, id: 36412153
+root:[INFO]:[2022-09-26 20:07:45,720] - GameBot::update_data delete event 36412153
+root:[INFO]:[2022-09-26 20:07:45,721] - delete game 36412153
+root:[INFO]:[2022-09-26 20:07:45,907] - GameBot::update_data successfully get data from API, id: 36412174
+root:[INFO]:[2022-09-26 20:07:45,907] - GameBot::update_data delete event 36412174
+root:[INFO]:[2022-09-26 20:07:45,907] - delete game 36412174
+root:[INFO]:[2022-09-26 20:07:46,057] - GameBot::update_data successfully get data from API, id: 36412154
+root:[INFO]:[2022-09-26 20:07:46,202] - GameBot::update_data successfully get data from API, id: 36412188
+root:[INFO]:[2022-09-26 20:07:46,203] - GameBot::update_data delete event 36412188
+root:[INFO]:[2022-09-26 20:07:46,203] - delete game 36412188
+root:[INFO]:[2022-09-26 20:07:46,203] - GameBot::update_data delete event 36412188
+root:[INFO]:[2022-09-26 20:07:46,203] - delete game 36412188
+root:[INFO]:[2022-09-26 20:07:46,347] - GameBot::update_data successfully get data from API, id: 36412185
+root:[INFO]:[2022-09-26 20:07:46,348] - GameBot::update_data delete event 36412185
+root:[INFO]:[2022-09-26 20:07:46,348] - delete game 36412185
+root:[INFO]:[2022-09-26 20:07:46,501] - GameBot::update_data successfully get data from API, id: 36228294
+root:[INFO]:[2022-09-26 20:07:46,501] - GameBot::update_data delete event 36228294
+root:[INFO]:[2022-09-26 20:07:46,501] - delete game 36228294
+root:[INFO]:[2022-09-26 20:07:46,654] - GameBot::update_data successfully get data from API, id: 36228296
+root:[INFO]:[2022-09-26 20:07:46,655] - GameBot::update_data delete event 36228296
+root:[INFO]:[2022-09-26 20:07:46,655] - delete game 36228296
+root:[INFO]:[2022-09-26 20:07:46,809] - GameBot::update_data successfully get data from API, id: 36228295
+root:[INFO]:[2022-09-26 20:07:46,809] - GameBot::update_data delete event 36228295
+root:[INFO]:[2022-09-26 20:07:46,809] - delete game 36228295
+root:[INFO]:[2022-09-26 20:07:46,953] - GameBot::update_data successfully get data from API, id: 36228298
+root:[INFO]:[2022-09-26 20:07:46,954] - GameBot::update_data delete event 36228298
+root:[INFO]:[2022-09-26 20:07:46,954] - delete game 36228298
+root:[INFO]:[2022-09-26 20:07:47,103] - GameBot::update_data successfully get data from API, id: 36228297
+root:[INFO]:[2022-09-26 20:07:47,104] - GameBot::update_data delete event 36228297
+root:[INFO]:[2022-09-26 20:07:47,104] - delete game 36228297
+root:[INFO]:[2022-09-26 20:07:47,284] - GameBot::update_data successfully get data from API, id: 36228299
+root:[INFO]:[2022-09-26 20:07:47,284] - GameBot::update_data delete event 36228299
+root:[INFO]:[2022-09-26 20:07:47,284] - delete game 36228299
+root:[INFO]:[2022-09-26 20:07:47,284] - GameBot::get_info call 36401242
+root:[INFO]:[2022-09-26 20:07:47,284] - GameBot::get_info call 36396431
+root:[INFO]:[2022-09-26 20:07:47,284] - GameBot::get_info call 36401241
+root:[INFO]:[2022-09-26 20:07:47,284] - GameBot::get_info call 36401243
+root:[INFO]:[2022-09-26 20:07:47,284] - GameBot::get_info call 36396410
+root:[INFO]:[2022-09-26 20:07:47,284] - GameBot::get_info call 36401244
+root:[INFO]:[2022-09-26 20:07:47,284] - GameBot::get_info call 36396380
+root:[INFO]:[2022-09-26 20:07:47,284] - GameBot::get_info call 36401246
+root:[INFO]:[2022-09-26 20:07:47,285] - GameBot::get_info call 36401247
+root:[INFO]:[2022-09-26 20:07:47,285] - GameBot::get_info call 36407486
+root:[INFO]:[2022-09-26 20:07:47,285] - GameBot::get_info call 36407484
+root:[INFO]:[2022-09-26 20:07:47,285] - GameBot::get_info call 36412159
+root:[INFO]:[2022-09-26 20:07:47,285] - GameBot::get_info call 36412168
+root:[INFO]:[2022-09-26 20:07:47,285] - GameBot::get_info call 36412169
+root:[INFO]:[2022-09-26 20:07:47,285] - GameBot::get_info call 36412175
+root:[INFO]:[2022-09-26 20:07:47,285] - GameBot::get_info call 36412178
+root:[INFO]:[2022-09-26 20:07:47,285] - GameBot::get_info call 36412179
+root:[INFO]:[2022-09-26 20:07:47,285] - GameBot::get_info call 36412186
+root:[INFO]:[2022-09-26 20:07:47,285] - GameBot::get_info call 36412173
+root:[INFO]:[2022-09-26 20:07:47,285] - GameBot::get_info call 36412171
+root:[INFO]:[2022-09-26 20:07:47,285] - GameBot::get_info call 36415140
+root:[INFO]:[2022-09-26 20:07:47,285] - GameBot::get_info call 36412187
+root:[INFO]:[2022-09-26 20:07:47,285] - GameBot::get_info call 36412172
+root:[INFO]:[2022-09-26 20:07:47,285] - GameBot::get_info call 36412164
+root:[INFO]:[2022-09-26 20:07:47,286] - GameBot::get_info call 36415420
+root:[INFO]:[2022-09-26 20:07:47,286] - GameBot::get_info call 36415716
+root:[INFO]:[2022-09-26 20:07:47,286] - GameBot::get_info call 36415678
+root:[INFO]:[2022-09-26 20:07:47,286] - GameBot::get_info call 36412153
+root:[INFO]:[2022-09-26 20:07:47,286] - GameBot::get_info call 36412174
+root:[INFO]:[2022-09-26 20:07:47,286] - GameBot::get_info call 36412154
+root:[INFO]:[2022-09-26 20:07:47,286] - GameBot::get_info call 36412188
+root:[INFO]:[2022-09-26 20:07:47,286] - GameBot::get_info call 36412185
+root:[INFO]:[2022-09-26 20:07:47,286] - GameBot::get_info call 36228294
+root:[INFO]:[2022-09-26 20:07:47,286] - GameBot::get_info call 36228296
+root:[INFO]:[2022-09-26 20:07:47,286] - GameBot::get_info call 36228295
+root:[INFO]:[2022-09-26 20:07:47,286] - GameBot::get_info call 36228298
+root:[INFO]:[2022-09-26 20:07:47,286] - GameBot::get_info call 36228297
+root:[INFO]:[2022-09-26 20:07:47,286] - GameBot::get_info call 36228299
