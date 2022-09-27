@@ -47,23 +47,28 @@ class GameBot():
                 temp_info = _string.split()
                 temp_set = int(temp_info[0].split('-')[0])
                 logging.info(f"GameBot::update_data:{self._id_game} Set is {temp_set}")
-            elif temp_set > 1 and temp_set < 4 and self._tracking == True:
-                logging.info(
-                    f"GameBot::update_data:{self._id_game} for event set is {temp_set}, event is tracking")
-                for score in self._data['eventMiscs']:
-                    if score['id'] == self._id_game:
-                        if int(score['score1']) == 1 or int(score['score2']) == 1:
-                            logging.info(
-                                f"GameBot::update_data:{self._id_game} for event: check winner...")
-                            self._winner = 0 if score['score1'] > score['score2'] else 1
-                            self._new_info = True
-                            logging.info(
-                                f"GameBot::update_data:{self._id_game} for event: wineer {self._winner + 1}, new info {self._new_info}")
-                        elif int(score['score1']) != 0 or int(score['score2']) != 0:
-                            logging.info(
-                                f"GameBot::update_data:{self._id_game} play one more set, delete event")
-                            self.__del__()
-            else:
+                if temp_set > 1 and temp_set < 4 and self._tracking == True:
+                    logging.info(
+                        f"GameBot::update_data:{self._id_game} for event set is {temp_set}, event is tracking")
+                    for score in self._data['eventMiscs']:
+                        logging.info(f"GameBot::update_data:{self._id_game} in eventMiscs {score['id']}")
+                        if score['id'] == self._id_game:
+                            if int(score['score1']) == 1 or int(score['score2']) == 1:
+                                logging.info(
+                                    f"GameBot::update_data:{self._id_game} for event: check winner...")
+                                self._winner = 0 if score['score1'] > score['score2'] else 1
+                                self._new_info = True
+                                logging.info(
+                                    f"GameBot::update_data:{self._id_game} for event: wineer {self._winner + 1}, new info {self._new_info}")
+                                break
+                            elif int(score['score1']) != 0 or int(score['score2']) != 0:
+                                logging.info(
+                                    f"GameBot::update_data:{self._id_game} play one more set, delete event")
+                                self.__del__()
+                            logging.info(f"GameBot::update_data:{self._id_game}: {score['score1']}-{score['score2']}")
+                elif temp_set == 1:
+                    continue
+            elif not self._tracking:
                 logging.info(
                     f"GameBot::update_data:{self._id_game} delete event")
                 self.__del__()
@@ -72,14 +77,9 @@ class GameBot():
         return self._id_game
 
     def get_info(self):
-        logging.info(f"GameBot::get_info:{self._id_game} call")
+        logging.info(f"GameBot::get_info:{self._id_game} call: tracking {self._tracking}, new_info {self._new_info}")
         if self._new_info:
-            print(self._event_name, self._team1_name, self._team2_name)
-            if self._favorit == 1 and self._winner == 0:
-                st = f"{self._event_name},{self._team1_name}"
-                logging.info(f"GameBot::get_info:{self._id_game} call: st = {st}")
-                return st
-            elif self._favorit == 1 and self._winner == 1:
+            if self._favorit == 1 and self._winner == 1:
                 st = f"{self._event_name},{self._team2_name}"
                 logging.info(f"GameBot::get_info:{self._id_game} call: st = {st}")
                 return st
@@ -87,11 +87,11 @@ class GameBot():
                 st = f"{self._event_name},{self._team1_name}"
                 logging.info(f"GameBot::get_info:{self._id_game} call: st = {st}")
                 return st
-            elif self._favorit == 2 and self._winner == 1:
-                st = f"{self._event_name},{self._team2_name}"
-                logging.info(f"GameBot::get_info:{self._id_game} call: st = {st}")
-                return st
+            else:
+                logging.info(f"GameBot::get_info:{self._id_game} favorit is win: tracking {self._tracking}")
+                return -1
         else:
+            logging.info(f"GameBot::get_info:{self._id_game} not new info: new_info {self._new_info}")
             return -1
 
     def get_favorit(self):
