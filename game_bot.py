@@ -35,13 +35,11 @@ class GameBot():
         responce_game_info = requests.get(url=url_info_games.replace('(1)', str(self._id_game)), headers=self._headers)
         try:
             self._data = responce_game_info.json()
-            logging.info(f"GameBot::update_data:{self._id_game} successfully get data from API")
         except Exception as e:
             logging.critical("Error get json package from api!")
         temp_set = 0
         for event in self._data['events']:
             if len(event['name']) == 7 and self._tracking:
-                logging.info(f"GameBot::update_data:{self._id_game} Check set: param name in json {event['name']}")
                 # Проверяем сет
                 _string = event['name']
                 temp_info = _string.split()
@@ -51,7 +49,6 @@ class GameBot():
                     logging.info(
                         f"GameBot::update_data:{self._id_game} for event set is {temp_set}, event is tracking")
                     for score in self._data['eventMiscs']:
-                        logging.info(f"GameBot::update_data:{self._id_game} in eventMiscs {score['id']}")
                         if score['id'] == self._id_game:
                             if int(score['score1']) == 1 or int(score['score2']) == 1:
                                 logging.info(
@@ -77,21 +74,17 @@ class GameBot():
         return self._id_game
 
     def get_info(self):
-        logging.info(f"GameBot::get_info:{self._id_game} call: tracking {self._tracking}, new_info {self._new_info}")
         if self._new_info:
             if self._favorit == 1 and self._winner == 1:
                 st = f"{self._event_name},{self._team2_name}"
-                logging.info(f"GameBot::get_info:{self._id_game} call: st = {st}")
                 return st
             elif self._favorit == 2 and self._winner == 0:
                 st = f"{self._event_name},{self._team1_name}"
-                logging.info(f"GameBot::get_info:{self._id_game} call: st = {st}")
                 return st
             else:
                 logging.info(f"GameBot::get_info:{self._id_game} favorit is win: tracking {self._tracking}")
                 return -1
         else:
-            logging.info(f"GameBot::get_info:{self._id_game} not new info: new_info {self._new_info}")
             return -1
 
     def get_favorit(self):
