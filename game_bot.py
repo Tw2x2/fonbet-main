@@ -146,7 +146,7 @@ class GameBot():
                                 f"GameBot::get_info_event:{self._id_game} for event: set is {temp_set}, event is tracking")
                             for score in self._data['eventMiscs']:
                                 if score['id'] == self._id_game:
-                                    if int(score['score1']) == 1  or int(score['score2']) == 1:
+                                    if (int(score['score1']) == 1  and int(score['score2']) == 0) or (int(score['score1']) == 0  and int(score['score2']) == 1):
                                         logging.info(
                                             f"GameBot::get_info_event:{self._id_game} for event: check winner...")
                                         self._winner = 0 if score['score1'] > score['score2'] else 1
