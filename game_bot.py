@@ -23,7 +23,7 @@ class GameBot():
         #После запускается функция в которой получаем json со всеми событиями на fonbet
         self._id_game = id_game
         self._headers = headers
-        logging.basicConfig(level=logging.INFO, filename="loger.log", format='%(name)s:[%(levelname)s]:[%(asctime)s] - %(message)s')
+        logging.basicConfig(level=logging.CRITICAL, filename="loger.log", format='%(name)s:[%(levelname)s]:[%(asctime)s] - %(message)s')
         logging.info(f"GameBot::__init__:{id_game} Create game object")
         self.get_data()
 

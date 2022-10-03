@@ -5,7 +5,7 @@ import game_bot
 import time
 import global_path
 import requests
-logging.basicConfig(level=logging.INFO, filename="loger.log", format='%(name)s:[%(levelname)s]:[%(asctime)s] - %(message)s')
+logging.basicConfig(level=logging.CRITICAL, filename="loger.log", format='%(name)s:[%(levelname)s]:[%(asctime)s] - %(message)s')
 headers = {
     "User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
     "Accept":"*/*"
@@ -96,7 +96,6 @@ def get_info_users(message):
                 list_games.remove(i)
                 del i
         counter += 1
-        time.sleep(60)
 
 
 bot.polling(none_stop=True, interval=0)
