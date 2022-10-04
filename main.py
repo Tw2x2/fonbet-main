@@ -96,6 +96,4 @@ def get_info_users(message):
                 list_games.remove(i)
                 del i
         counter += 1
-
-
-bot.polling(none_stop=True, interval=0)
+bot.infinity_polling(timeout=10, long_polling_timeout=5)
