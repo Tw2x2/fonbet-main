@@ -190,7 +190,7 @@ class GameBot():
                     except Exception as e:
                         continue
         if self._coefficient_team_1 != 0 or self._coefficient_team_2 != 0:
-            self._tracking = (abs(self._coefficient_team_1 - self._coefficient_team_2)) > 0.49
+            self._tracking = (abs(self._coefficient_team_1 - self._coefficient_team_2)) > 0.9
             if self._coefficient_team_1 > self._coefficient_team_2:
                 self._favorit = 2
                 logging.info(
